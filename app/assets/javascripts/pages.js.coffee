@@ -4,39 +4,35 @@ Raphael.fn.addGuides = ->
     guide: g
 
   @ca.along = (percent) ->
-    g = @attr("guide")
+    g = @attr('guide')
     len = g.getTotalLength()
     point = g.getPointAtLength(percent * len)
-    t = transform: "t" + point.x + " " + point.y
-    t
+    transform: 't' + point.x + ' ' + point.y
 
 $ ->
   paper = Raphael document.getElementById('canvas_container'), 800, 600
   paper.addGuides()
-  path1 = paper.path "M20,20 L300,40 L300,300 L100,70 l500,500"
-  path2 = paper.path("M 100 100 Q 200 500 300 100")
- 
-  #length = path.getTotalLength()
+  path1 = paper.path 'M20,20 L300,40 L300,300 L100,70 l500,500'
+  path2 = paper.path 'M100,100 Q200,500,300,100'
 
+  # both MUST be initialised at (0|0)
   mover1 = paper.circle(0, 0, 10).attr
-    stroke: "none"
-    fill: "#dd1111"
-
+    stroke: 'none'
+    fill: '#dd1111'
   mover2 = paper.circle(0, 0, 10).attr
-    stroke: "none"
-    fill: "#11dd11"
+    stroke: 'none'
+    fill: '#11dd11'
 
   $(document).click ->
-    console.log 'click'
     mover1.attr(
-      guide : path1
-      along : 0
+      guide: path1
+      along: 0
     ).animate
-      along : 1
-    , 10000, "ease-out"
+      along: 1
+    , 7000, "ease-out"
     mover2.attr(
-      guide : path2
-      along : 0
+      guide: path2
+      along: 0
     ).animate
-      along : 1
-    , 6000, "ease-out"
+      along: 1
+    , 6000, 'ease-out'
