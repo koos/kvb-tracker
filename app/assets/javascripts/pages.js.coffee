@@ -18,11 +18,11 @@ $ ->
  
   #length = path.getTotalLength()
 
-  mover1 = paper.circle(20, 20, 10).attr
+  mover1 = paper.circle(0, 0, 10).attr
     stroke: "none"
     fill: "#dd1111"
 
-  mover2 = paper.circle(100, 100, 10).attr
+  mover2 = paper.circle(0, 0, 10).attr
     stroke: "none"
     fill: "#11dd11"
 
