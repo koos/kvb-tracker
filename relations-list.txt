@@ -1,0 +1,45 @@
+relations
+=========
+
+alles:
+39082
+
+KVB1:
+35941
+2003475
+bensberg-weiden: 1320438
+
+KVB3:
+34411
+
+KVB4:
+36145
+
+KVB 5:
+Reichensp. - Ossendorf:
+2003477
+
+KVB 7:
+36127
+
+KVB 9:
+36132
+
+KVB 12:
+36133
+
+KVB 13:
+2003476
+
+KVB 15:
+36134
+
+KVB 16:
+34488
+
+KVB 18:
+1633562
+
+KVB 13:
+Sülzgürtel - Holweide
+2003476

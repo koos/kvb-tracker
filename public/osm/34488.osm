@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server">
+  <node id="26612856" lat="50.8315687" lon="6.970946" version="9" changeset="9613553" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-10-21T19:26:32Z">
+    <tag k="VRS:ref" v="85112"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="VRS:gemeinde" v="WESSELING"/>
+    <tag k="name" v="Wesseling Nord"/>
+    <tag k="ref" v="KWSN"/>
+    <tag k="railway" v="halt"/>
+    <tag k="VRS:ortsteil" v="Mitte"/>
+  </node>
+  <node id="26612854" lat="50.8245109" lon="6.9758896" version="5" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:03:41Z"/>
+  <node id="26612809" lat="50.7399846" lon="7.0675381" version="2" changeset="8898995" user="dachefte" uid="133419" visible="true" timestamp="2011-08-02T09:42:21Z"/>
+  <node id="26612852" lat="50.8228832" lon="6.9795579" version="12" changeset="8905007" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:57:21Z">
+    <tag k="VRS:ref" v="85111"/>
+    <tag k="note" v="Linie 16"/>
+    <tag k="VRS:gemeinde" v="WESSELING"/>
+    <tag k="name" v="Wesseling"/>
+    <tag k="ref" v="2"/>
+    <tag k="VRS:name" v="Wesseling"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Mitte"/>
+  </node>
+  <node id="26612793" lat="50.7354045" lon="7.086508" version="4" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:36Z"/>
+  <node id="26612799" lat="50.7370149" lon="7.0795645" version="3" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:36Z"/>
+  <node id="26612801" lat="50.7376302" lon="7.0775643" version="2" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:36Z"/>
+  <node id="26612805" lat="50.7392997" lon="7.0738525" version="3" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:36Z"/>
+  <node id="26723158" lat="50.7046169" lon="7.1335627" version="5" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:04Z"/>
+  <node id="27146894" lat="50.7365781" lon="7.0814216" version="6" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:24Z">
+    <tag k="VRS:ref" v="61712"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Bonn-West"/>
+    <tag k="ref:VRS" v="61712"/>
+    <tag k="VRS:name" v="Bonn West"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="27561557" lat="50.8494272" lon="6.9801602" version="7" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:27Z"/>
+  <node id="29766820" lat="50.7509183" lon="7.0466538" version="10" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:37:32Z">
+    <tag k="VRS:ref" v="64407"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Tannenbusch Mitte"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Tannenbusch"/>
+  </node>
+  <node id="30991717" lat="50.7091069" lon="7.1287654" version="3" changeset="813840" user="mike67" uid="49785" visible="true" timestamp="2008-11-30T00:05:11Z"/>
+  <node id="31001569" lat="50.7348162" lon="7.0887452" version="2" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:04Z"/>
+  <node id="31001570" lat="50.7338605" lon="7.0923346" version="2" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:05Z"/>
+  <node id="31001571" lat="50.7321116" lon="7.09887" version="4" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:07Z"/>
+  <node id="31001576" lat="50.7330185" lon="7.1033045" version="6" changeset="8905391" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:23:29Z">
+    <tag k="VRS:ref" v="61110"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Universität / Markt"/>
+    <tag k="VRS:name" v="Universität/Markt"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="31001574" lat="50.7321219" lon="7.101715" version="4" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:07Z"/>
+  <node id="31001577" lat="50.7334262" lon="7.1038485" version="4" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:07Z"/>
+  <node id="31001573" lat="50.731887" lon="7.1007966" version="5" changeset="6403520" user="tijuca" uid="125832" visible="true" timestamp="2010-11-18T22:01:27Z"/>
+  <node id="31001575" lat="50.7325024" lon="7.1026286" version="7" changeset="4056837" user="EvanE" uid="184969" visible="true" timestamp="2010-03-07T01:17:19Z"/>
+  <node id="31052759" lat="50.7208978" lon="7.1153167" version="3" changeset="4068579" user="EvanE" uid="184969" visible="true" timestamp="2010-03-08T03:05:53Z"/>
+  <node id="31052758" lat="50.7231762" lon="7.1133829" version="3" changeset="4095158" user="EvanE" uid="184969" visible="true" timestamp="2010-03-11T04:10:03Z"/>
+  <node id="31052761" lat="50.7127653" lon="7.125248" version="3" changeset="4830292" user="mike67" uid="49785" visible="true" timestamp="2010-05-28T12:12:09Z"/>
+  <node id="31052756" lat="50.7326922" lon="7.1067312" version="3" changeset="717751" user="tlacuilo" uid="58410" visible="true" timestamp="2009-03-01T21:40:46Z"/>
+  <node id="31052760" lat="50.7167904" lon="7.1204362" version="7" changeset="8905391" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:22:57Z">
+    <tag k="VRS:ref" v="62116"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Heussallee / Museumsmeile"/>
+    <tag k="VRS:name" v="Heussallee/Museumsmeile"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Gronau"/>
+  </node>
+  <node id="31610480" lat="50.73718" lon="7.078884" version="2" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:41Z"/>
+  <node id="31610966" lat="50.740032" lon="7.0665433" version="5" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:41Z"/>
+  <node id="31611534" lat="50.7398682" lon="7.0713898" version="2" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:42Z"/>
+  <node id="31611631" lat="50.7382161" lon="7.0763" version="3" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:42Z"/>
+  <node id="31611948" lat="50.7390536" lon="7.0744835" version="3" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:42Z"/>
+  <node id="50759286" lat="50.7146989" lon="7.1229568" version="4" changeset="10761206" user="mike67" uid="49785" visible="true" timestamp="2012-02-22T17:36:10Z"/>
+  <node id="58694619" lat="50.8257832" lon="6.973942" version="5" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:03:45Z"/>
+  <node id="58694673" lat="50.9069445" lon="6.9777581" version="2" changeset="23181" user="CygnusOlor" uid="8290" visible="true" timestamp="2007-12-01T19:42:39Z">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="58694679" lat="50.9085466" lon="6.9763104" version="2" changeset="23181" user="CygnusOlor" uid="8290" visible="true" timestamp="2007-12-01T19:42:46Z">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="58694681" lat="50.9098161" lon="6.9752461" version="2" changeset="23181" user="CygnusOlor" uid="8290" visible="true" timestamp="2007-12-01T19:42:39Z">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="58694622" lat="50.8369153" lon="6.9721034" version="7" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:36Z"/>
+  <node id="58694661" lat="50.90634" lon="6.9782024" version="7" changeset="8905007" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:56:21Z">
+    <tag k="VRS:ref" v="12410"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Bayenthalgürtel"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Marienburg"/>
+  </node>
+  <node id="58694653" lat="50.8998399" lon="6.9848807" version="8" changeset="8905007" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:56:45Z">
+    <tag k="VRS:ref" v="12411"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Heinrich-Lübke-Ufer"/>
+    <tag k="ref" v="KMBG"/>
+    <tag k="railway" v="halt"/>
+    <tag k="VRS:ortsteil" v="Marienburg"/>
+  </node>
+  <node id="58694686" lat="50.9130079" lon="6.9726472" version="2" changeset="23181" user="CygnusOlor" uid="8290" visible="true" timestamp="2007-12-01T19:42:35Z">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="58694712" lat="50.922678" lon="6.9672623" version="6" changeset="4819560" user="Raymond" uid="16478" visible="true" timestamp="2010-05-27T07:00:22Z"/>
+  <node id="58694689" lat="50.9137391" lon="6.9723656" version="2" changeset="23181" user="CygnusOlor" uid="8290" visible="true" timestamp="2007-12-01T19:42:44Z">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="58694702" lat="50.9176498" lon="6.9698774" version="3" changeset="1636984" user="Raymond" uid="16478" visible="true" timestamp="2009-06-26T09:06:06Z">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="58694709" lat="50.9225104" lon="6.9674956" version="5" changeset="9085105" user="Raymond" uid="16478" visible="true" timestamp="2011-08-21T15:12:19Z"/>
+  <node id="78586836" lat="50.9527932" lon="6.961646" version="6" changeset="4418304" user="Flacus" uid="77446" visible="true" timestamp="2010-04-13T22:04:13Z"/>
+  <node id="78586830" lat="50.9481923" lon="6.95808" version="6" changeset="428244" user="RoToRa" uid="9781" visible="true" timestamp="2008-03-30T17:36:38Z"/>
+  <node id="78586838" lat="50.9545856" lon="6.9656084" version="5" changeset="256964" user="Udo" uid="13308" visible="true" timestamp="2007-10-18T22:36:11Z"/>
+  <node id="78586831" lat="50.9499519" lon="6.9587075" version="6" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:28:02Z"/>
+  <node id="1341075078" lat="50.9417279" lon="6.9572211" version="3" changeset="10477716" user="Aleks-Berlin" uid="85218" visible="true" timestamp="2012-01-23T18:34:19Z">
+    <tag k="VRS:ref" v="11201"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="note" v="Linien VRS 5, VRS 16, VRS 18"/>
+    <tag k="operator" v="KVB"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Dom/Hbf"/>
+    <tag k="ref:VRS" v="11201"/>
+    <tag k="website" v="http://www.kvb-koeln.de/german/hst/overview/8/"/>
+    <tag k="tram" v="yes"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="505829740" lat="50.9212571" lon="6.9604343" version="8" changeset="10479849" user="Aleks-Berlin" uid="85218" visible="true" timestamp="2012-01-23T22:18:09Z">
+    <tag k="VRS:ref" v="11411"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="operator" v="KVB"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Chlodwigplatz"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="247069112" lat="50.6971668" lon="7.1410861" version="7" changeset="3268661" user="EvanE" uid="184969" visible="true" timestamp="2009-12-01T23:44:44Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="254348938" lat="50.9243414" lon="6.9513217" version="6" changeset="10942862" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T13:36:41Z">
+    <tag k="railway" v="level_crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="254350168" lat="50.9224007" lon="6.9557387" version="2" changeset="2869133" user="Quietscheentchen" uid="139818" visible="true" timestamp="2009-10-16T22:10:01Z"/>
+  <node id="254350166" lat="50.9210724" lon="6.9594022" version="6" changeset="8740926" user="Raymond" uid="16478" visible="true" timestamp="2011-07-16T16:31:53Z">
+    <tag k="railway" v="level_crossing"/>
+    <tag k="crossing" v="uncontrolled"/>
+  </node>
+  <node id="254380440" lat="50.9266343" lon="6.945806" version="5" changeset="8904972" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:36:38Z">
+    <tag k="VRS:ref" v="11510"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="note" v="Linien VRS 12, VRS 15, VRS 16"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Eifelstraße"/>
+    <tag k="ref:VRS" v="11510"/>
+    <tag k="tram" v="yes"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="256572347" lat="50.9299002" lon="6.9452679" version="3" changeset="6915809" user="berndw" uid="116044" visible="true" timestamp="2011-01-09T14:43:06Z"/>
+  <node id="256572342" lat="50.9292305" lon="6.9435034" version="3" changeset="10959570" user="berndw" uid="116044" visible="true" timestamp="2012-03-12T19:55:22Z"/>
+  <node id="256572345" lat="50.9294682" lon="6.9440728" version="2" changeset="10959570" user="berndw" uid="116044" visible="true" timestamp="2012-03-12T19:55:22Z"/>
+  <node id="260557190" lat="50.9225629" lon="6.9660242" version="6" changeset="4819560" user="Raymond" uid="16478" visible="true" timestamp="2010-05-27T07:04:56Z">
+    <tag k="railway" v="crossing"/>
+  </node>
+  <node id="260558401" lat="50.922238" lon="6.9649399" version="8" changeset="4819560" user="Raymond" uid="16478" visible="true" timestamp="2010-05-27T07:04:58Z">
+    <tag k="railway" v="crossing"/>
+  </node>
+  <node id="269596942" lat="50.9581169" lon="6.9673616" version="4" changeset="11001784" user="berndw" uid="116044" visible="true" timestamp="2012-03-16T19:56:37Z"/>
+  <node id="269596944" lat="50.961022" lon="6.9680015" version="3" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:43:21Z"/>
+  <node id="273948472" lat="50.9844594" lon="6.9627381" version="1" changeset="314760" user="Ulrich Dicke" uid="14419" visible="true" timestamp="2008-06-27T14:18:37Z"/>
+  <node id="276277733" lat="50.9836641" lon="6.9644703" version="1" changeset="396424" user="krza" uid="38919" visible="true" timestamp="2008-07-04T22:00:27Z"/>
+  <node id="276277734" lat="50.984037" lon="6.9636034" version="1" changeset="396424" user="krza" uid="38919" visible="true" timestamp="2008-07-04T22:00:27Z"/>
+  <node id="276277732" lat="50.9831062" lon="6.9659765" version="2" changeset="11020208" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T15:34:29Z"/>
+  <node id="276278178" lat="50.9802499" lon="6.9682369" version="4" changeset="11020208" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T15:34:29Z"/>
+  <node id="276278177" lat="50.9786063" lon="6.9685988" version="1" changeset="396424" user="krza" uid="38919" visible="true" timestamp="2008-07-04T22:04:13Z"/>
+  <node id="276278173" lat="50.9686484" lon="6.9690311" version="4" changeset="4696907" user="Raymond" uid="16478" visible="true" timestamp="2010-05-14T15:00:11Z"/>
+  <node id="276278393" lat="50.9811731" lon="6.9680619" version="3" changeset="565932" user="krza" uid="38919" visible="true" timestamp="2008-09-07T10:55:42Z"/>
+  <node id="276278394" lat="50.9817999" lon="6.9679035" version="2" changeset="396424" user="krza" uid="38919" visible="true" timestamp="2008-07-04T22:06:08Z"/>
+  <node id="276278396" lat="50.9823394" lon="6.9675583" version="4" changeset="465593" user="krza" uid="38919" visible="true" timestamp="2008-07-12T13:15:49Z"/>
+  <node id="276278398" lat="50.9826051" lon="6.9671482" version="1" changeset="396424" user="krza" uid="38919" visible="true" timestamp="2008-07-04T22:05:18Z"/>
+  <node id="277913361" lat="50.9824907" lon="6.9673781" version="1" changeset="465593" user="krza" uid="38919" visible="true" timestamp="2008-07-12T13:15:49Z"/>
+  <node id="280127403" lat="50.9716027" lon="6.9691638" version="3" changeset="6002469" user="Raymond" uid="16478" visible="true" timestamp="2010-10-10T14:10:41Z"/>
+  <node id="280127513" lat="50.9672292" lon="6.9689001" version="2" changeset="4696907" user="Raymond" uid="16478" visible="true" timestamp="2010-05-14T15:00:14Z"/>
+  <node id="287500730" lat="50.9226098" lon="6.9674061" version="3" changeset="4819516" user="Raymond" uid="16478" visible="true" timestamp="2010-05-27T06:50:27Z"/>
+  <node id="292666216" lat="50.6946517" lon="7.1436157" version="2" changeset="391499" user="mike67" uid="49785" visible="true" timestamp="2008-12-15T00:38:19Z"/>
+  <node id="292667906" lat="50.6941352" lon="7.1442594" version="2" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:08Z"/>
+  <node id="292667908" lat="50.6850749" lon="7.1570379" version="6" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:08Z"/>
+  <node id="292667909" lat="50.6844323" lon="7.1580142" version="10" changeset="8905374" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:16:47Z">
+    <tag k="VRS:ref" v="66101"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Bad Godesberg Bahnhof"/>
+    <tag k="VRS:name" v="Bad Godesberg Bf"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Bad Godesberg"/>
+  </node>
+  <node id="292668320" lat="50.6943363" lon="7.1439676" version="2" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:08Z"/>
+  <node id="292668322" lat="50.6903909" lon="7.1497364" version="4" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:08Z"/>
+  <node id="292956437" lat="50.9185371" lon="6.9694465" version="4" changeset="9085105" user="Raymond" uid="16478" visible="true" timestamp="2011-08-21T15:12:16Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="293163166" lat="50.7051921" lon="7.132865" version="2" changeset="2972505" user="dschuwa" uid="55687" visible="true" timestamp="2009-10-28T11:27:40Z"/>
+  <node id="293696555" lat="50.6864041" lon="7.1559303" version="4" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:08Z"/>
+  <node id="293702018" lat="50.6965164" lon="7.1417519" version="9" changeset="8905391" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:22:59Z">
+    <tag k="VRS:ref" v="66707"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Hochkreuz / Deutsches Museum Bonn"/>
+    <tag k="VRS:name" v="Hochkreuz/Deutsches Museum Bonn"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Plittersdorf"/>
+  </node>
+  <node id="293703935" lat="50.7316709" lon="7.1073148" version="2" changeset="717751" user="tlacuilo" uid="58410" visible="true" timestamp="2009-03-01T21:40:46Z"/>
+  <node id="294098814" lat="50.6838228" lon="7.1589529" version="4" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:09Z"/>
+  <node id="294098816" lat="50.6829467" lon="7.159795" version="2" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:09Z"/>
+  <node id="294098818" lat="50.681636" lon="7.1592113" version="2" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:09Z"/>
+  <node id="294098842" lat="50.6833434" lon="7.1594773" version="3" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:09Z"/>
+  <node id="294098843" lat="50.682343" lon="7.1597521" version="2" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:09Z"/>
+  <node id="295035351" lat="50.9293582" lon="6.9437827" version="4" changeset="10959570" user="berndw" uid="116044" visible="true" timestamp="2012-03-12T19:55:24Z">
+    <tag k="railway" v="crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="295098522" lat="50.6876395" lon="7.1539249" version="4" changeset="8905374" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:17:39Z">
+    <tag k="VRS:ref" v="66109"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Plittersdorfer Straße"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Bad Godesberg"/>
+  </node>
+  <node id="300403952" lat="50.9389262" lon="6.9505657" version="5" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:24Z"/>
+  <node id="300403951" lat="50.9365583" lon="6.9497184" version="6" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:10Z"/>
+  <node id="300403949" lat="50.9345171" lon="6.949571" version="6" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:13Z"/>
+  <node id="300406848" lat="50.9363426" lon="6.9492273" version="5" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:10Z"/>
+  <node id="300406851" lat="50.9366307" lon="6.9498374" version="5" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:10Z"/>
+  <node id="300406852" lat="50.9360071" lon="6.9490014" version="5" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:10Z"/>
+  <node id="300406850" lat="50.9364865" lon="6.9495179" version="5" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:11Z"/>
+  <node id="300406849" lat="50.9361435" lon="6.9490585" version="5" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:13Z"/>
+  <node id="300406853" lat="50.9358104" lon="6.9489723" version="6" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:13Z"/>
+  <node id="300406855" lat="50.9306894" lon="6.9499672" version="5" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:23:00Z"/>
+  <node id="300406854" lat="50.930776" lon="6.9500004" version="5" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:23:01Z"/>
+  <node id="300451657" lat="50.9548049" lon="6.9662025" version="3" changeset="720005" user="usaran" uid="78536" visible="true" timestamp="2008-11-08T21:46:11Z"/>
+  <node id="300451659" lat="50.9549032" lon="6.9663921" version="2" changeset="11007258" user="berndw" uid="116044" visible="true" timestamp="2012-03-17T12:08:59Z"/>
+  <node id="300451660" lat="50.9550783" lon="6.9666411" version="2" changeset="11007258" user="berndw" uid="116044" visible="true" timestamp="2012-03-17T12:08:59Z"/>
+  <node id="347584444" lat="50.6826582" lon="7.1598464" version="1" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:09Z"/>
+  <node id="347584445" lat="50.6820382" lon="7.1595546" version="1" changeset="563176" user="tlacuilo" uid="58410" visible="true" timestamp="2009-02-19T16:30:09Z"/>
+  <node id="26612876" lat="50.8833108" lon="6.9946812" version="16" changeset="10647691" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-10T21:33:43Z">
+    <tag k="VRS:ref" v="12712"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Siegstraße"/>
+    <tag k="ref" v="KKSS"/>
+    <tag k="VRS:name" v="Siegstraße (Stadtbahn)"/>
+    <tag k="railway" v="halt"/>
+    <tag k="VRS:ortsteil" v="Rodenkirchen"/>
+  </node>
+  <node id="381061393" lat="50.9414951" lon="6.9539776" version="2" changeset="3989761" user="Netzwolf" uid="32786" visible="true" timestamp="2010-02-27T15:57:25Z"/>
+  <node id="381061391" lat="50.9413882" lon="6.952497" version="1" changeset="905008" user="Raymond" uid="16478" visible="true" timestamp="2009-04-22T20:12:34Z"/>
+  <node id="293163182" lat="50.7100839" lon="7.1279053" version="6" changeset="3441799" user="mike67" uid="49785" visible="true" timestamp="2009-12-24T12:28:52Z"/>
+  <node id="26723161" lat="50.707804" lon="7.129989" version="5" changeset="9715129" user="dschuwa" uid="55687" visible="true" timestamp="2011-11-01T18:20:52Z"/>
+  <node id="390053073" lat="50.6985435" lon="7.1397992" version="3" changeset="4009689" user="mike67" uid="49785" visible="true" timestamp="2010-03-01T16:12:27Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="543392187" lat="50.7064745" lon="7.1314215" version="2" changeset="9237855" user="rurseekatze" uid="81244" visible="true" timestamp="2011-09-07T15:35:39Z"/>
+  <node id="26612810" lat="50.7401647" lon="7.0654651" version="7" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:37Z"/>
+  <node id="293702326" lat="50.700931" lon="7.1373697" version="7" changeset="1229881" user="mike67" uid="49785" visible="true" timestamp="2009-05-17T23:08:03Z"/>
+  <node id="293163167" lat="50.7017712" lon="7.1365058" version="11" changeset="8905391" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:23:11Z">
+    <tag k="VRS:ref" v="66606"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Max-Löbner-Straße / Friesdorf"/>
+    <tag k="VRS:name" v="Max-Löbner-Straße/Friesdorf"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Friesdorf"/>
+  </node>
+  <node id="308851944" lat="50.7032366" lon="7.1349821" version="7" changeset="1229913" user="mike67" uid="49785" visible="true" timestamp="2009-05-17T23:11:40Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="308851945" lat="50.7031299" lon="7.1350893" version="4" changeset="6358104" user="berndw" uid="116044" visible="true" timestamp="2010-11-13T13:21:10Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="293163179" lat="50.7011853" lon="7.1371091" version="9" changeset="1229913" user="mike67" uid="49785" visible="true" timestamp="2009-05-17T23:11:03Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="410372368" lat="50.8305321" lon="6.9711488" version="4" changeset="8709625" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T07:17:42Z"/>
+  <node id="410371916" lat="50.8294103" lon="6.9715103" version="2" changeset="8709625" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T07:17:42Z"/>
+  <node id="410371917" lat="50.8308166" lon="6.9710769" version="4" changeset="8709625" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T07:17:42Z"/>
+  <node id="410375487" lat="50.8321511" lon="6.9708912" version="4" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:31Z"/>
+  <node id="410375488" lat="50.8327459" lon="6.9708845" version="7" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:31Z"/>
+  <node id="410374858" lat="50.8315332" lon="6.9709498" version="4" changeset="8704470" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T15:53:15Z"/>
+  <node id="254348940" lat="50.9238297" lon="6.9524686" version="5" changeset="4292409" user="BellHouse" uid="25451" visible="true" timestamp="2010-04-01T09:20:22Z">
+    <tag k="railway" v="level_crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="254348939" lat="50.9239067" lon="6.9522743" version="6" changeset="4292409" user="BellHouse" uid="25451" visible="true" timestamp="2010-04-01T09:20:22Z">
+    <tag k="railway" v="level_crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="58694685" lat="50.9115174" lon="6.9738827" version="3" changeset="1423347" user="telegnom" uid="39636" visible="true" timestamp="2009-06-04T19:30:29Z">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="419700674" lat="50.8883857" lon="6.9916228" version="6" changeset="10663121" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-12T13:50:20Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="429437781" lat="50.9204358" lon="6.9685044" version="1" changeset="1636984" user="Raymond" uid="16478" visible="true" timestamp="2009-06-26T09:06:05Z"/>
+  <node id="429437782" lat="50.9194715" lon="6.9689579" version="1" changeset="1636984" user="Raymond" uid="16478" visible="true" timestamp="2009-06-26T09:06:05Z"/>
+  <node id="429437783" lat="50.915906" lon="6.9709076" version="1" changeset="1636984" user="Raymond" uid="16478" visible="true" timestamp="2009-06-26T09:06:05Z"/>
+  <node id="429437784" lat="50.9170295" lon="6.9702273" version="1" changeset="1636984" user="Raymond" uid="16478" visible="true" timestamp="2009-06-26T09:06:05Z"/>
+  <node id="429437785" lat="50.9173733" lon="6.9700457" version="1" changeset="1636984" user="Raymond" uid="16478" visible="true" timestamp="2009-06-26T09:06:05Z"/>
+  <node id="58694699" lat="50.9164279" lon="6.9706113" version="3" changeset="1636984" user="Raymond" uid="16478" visible="true" timestamp="2009-06-26T09:06:06Z">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="58694696" lat="50.9153381" lon="6.9712947" version="3" changeset="1636984" user="Raymond" uid="16478" visible="true" timestamp="2009-06-26T09:06:06Z">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="58694706" lat="50.9223325" lon="6.9676192" version="5" changeset="4819516" user="Raymond" uid="16478" visible="true" timestamp="2010-05-27T06:50:25Z"/>
+  <node id="429437790" lat="50.9183653" lon="6.969528" version="2" changeset="9085105" user="Raymond" uid="16478" visible="true" timestamp="2011-08-21T15:22:53Z"/>
+  <node id="58694627" lat="50.8348643" lon="6.9712189" version="6" changeset="8704470" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T15:53:17Z"/>
+  <node id="26612857" lat="50.8334704" lon="6.9709213" version="7" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:27Z"/>
+  <node id="26612864" lat="50.8576431" lon="6.9985309" version="8" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:27Z"/>
+  <node id="26612867" lat="50.8654097" lon="7.0041954" version="8" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:27Z"/>
+  <node id="26612871" lat="50.8679933" lon="7.0039109" version="8" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:27Z"/>
+  <node id="58694643" lat="50.8669904" lon="7.0043008" version="8" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:36Z"/>
+  <node id="447907462" lat="50.8807923" lon="6.996183" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:32Z"/>
+  <node id="447907467" lat="50.880949" lon="6.9960884" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:32Z"/>
+  <node id="447930883" lat="50.8433949" lon="6.9760979" version="3" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:33Z"/>
+  <node id="447913576" lat="50.8694962" lon="7.0030021" version="4" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:32Z"/>
+  <node id="447913581" lat="50.8698749" lon="7.0027673" version="4" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:33Z"/>
+  <node id="287500731" lat="50.9227411" lon="6.9668798" version="7" changeset="9085105" user="Raymond" uid="16478" visible="true" timestamp="2011-08-21T15:12:15Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="523813329" lat="50.9159557" lon="6.9708794" version="1" changeset="2768753" user="dachefte" uid="133419" visible="true" timestamp="2009-10-07T09:08:42Z"/>
+  <node id="523813333" lat="50.922644" lon="6.966272" version="2" changeset="4819516" user="Raymond" uid="16478" visible="true" timestamp="2010-05-27T06:50:26Z"/>
+  <node id="533914791" lat="50.9211147" lon="6.9590217" version="2" changeset="8740926" user="Raymond" uid="16478" visible="true" timestamp="2011-07-16T16:31:55Z">
+    <tag k="railway" v="crossing"/>
+    <tag k="crossing" v="uncontrolled"/>
+  </node>
+  <node id="533983700" lat="50.9221382" lon="6.956595" version="1" changeset="2869133" user="Quietscheentchen" uid="139818" visible="true" timestamp="2009-10-16T22:09:57Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="533983701" lat="50.9220954" lon="6.9567059" version="1" changeset="2869133" user="Quietscheentchen" uid="139818" visible="true" timestamp="2009-10-16T22:09:57Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="537524204" lat="50.6910668" lon="7.1487971" version="2" changeset="2909658" user="mike67" uid="49785" visible="true" timestamp="2009-10-21T08:35:10Z"/>
+  <node id="539214384" lat="50.6836977" lon="7.1590898" version="1" changeset="2933812" user="EvanE" uid="184969" visible="true" timestamp="2009-10-23T23:27:30Z"/>
+  <node id="543392166" lat="50.7052753" lon="7.1327497" version="2" changeset="9237855" user="rurseekatze" uid="81244" visible="true" timestamp="2011-09-07T15:35:38Z"/>
+  <node id="543392176" lat="50.7054454" lon="7.1324606" version="2" changeset="9237855" user="rurseekatze" uid="81244" visible="true" timestamp="2011-09-07T15:35:38Z"/>
+  <node id="543392182" lat="50.7058791" lon="7.1319942" version="1" changeset="2972505" user="dschuwa" uid="55687" visible="true" timestamp="2009-10-28T11:27:39Z"/>
+  <node id="543392189" lat="50.7063627" lon="7.1314675" version="1" changeset="2972505" user="dschuwa" uid="55687" visible="true" timestamp="2009-10-28T11:27:39Z"/>
+  <node id="543392178" lat="50.7053356" lon="7.1325893" version="3" changeset="9237855" user="rurseekatze" uid="81244" visible="true" timestamp="2011-09-07T15:35:38Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="543392184" lat="50.7062265" lon="7.1316117" version="4" changeset="9237855" user="rurseekatze" uid="81244" visible="true" timestamp="2011-09-07T15:35:39Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="560738321" lat="50.7336164" lon="7.0931993" version="1" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:01Z"/>
+  <node id="560738327" lat="50.7333016" lon="7.0951235" version="1" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:02Z"/>
+  <node id="560738332" lat="50.7328588" lon="7.0968129" version="1" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:02Z"/>
+  <node id="560738335" lat="50.7319218" lon="7.0995263" version="1" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:02Z"/>
+  <node id="560738336" lat="50.7318596" lon="7.1000611" version="1" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:02Z"/>
+  <node id="354678603" lat="50.733654" lon="7.1044834" version="2" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:07Z"/>
+  <node id="31001578" lat="50.7335687" lon="7.1041597" version="4" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:07Z"/>
+  <node id="31001579" lat="50.7336886" lon="7.1048174" version="4" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:07Z"/>
+  <node id="31001580" lat="50.7336545" lon="7.1052136" version="4" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:07Z"/>
+  <node id="31001581" lat="50.7334005" lon="7.1060684" version="4" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:08Z"/>
+  <node id="354678593" lat="50.7335604" lon="7.1056732" version="2" changeset="3090020" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:26:08Z"/>
+  <node id="354678587" lat="50.7331328" lon="7.1064351" version="2" changeset="3090213" user="dachefte" uid="133419" visible="true" timestamp="2009-11-11T13:53:07Z"/>
+  <node id="563288988" lat="50.7014543" lon="7.1368371" version="2" changeset="4586888" user="mike67" uid="49785" visible="true" timestamp="2010-05-02T16:19:47Z">
+    <tag k="railway" v="crossing"/>
+  </node>
+  <node id="571700117" lat="50.6812197" lon="7.1588309" version="1" changeset="3224632" user="EvanE" uid="184969" visible="true" timestamp="2009-11-27T01:43:29Z"/>
+  <node id="390057020" lat="50.696864" lon="7.1413911" version="3" changeset="3268661" user="EvanE" uid="184969" visible="true" timestamp="2009-12-01T23:44:48Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="585258518" lat="50.7070157" lon="7.1307771" version="1" changeset="3344365" user="mike67" uid="49785" visible="true" timestamp="2009-12-10T19:38:09Z"/>
+  <node id="602488393" lat="50.7498199" lon="7.0466695" version="3" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:37:46Z"/>
+  <node id="632962622" lat="50.9160117" lon="6.9708476" version="1" changeset="3819800" user="muetzekoeln" uid="225990" visible="true" timestamp="2010-02-07T22:42:21Z"/>
+  <node id="632938754" lat="50.9432257" lon="6.9599108" version="6" changeset="8560243" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:51:29Z"/>
+  <node id="656135994" lat="50.7351522" lon="7.0876013" version="1" changeset="3996760" user="berndw" uid="116044" visible="true" timestamp="2010-02-28T11:21:11Z"/>
+  <node id="659587941" lat="50.7540298" lon="7.0466354" version="4" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:37:47Z"/>
+  <node id="734098361" lat="50.9654085" lon="6.9687625" version="1" changeset="4696907" user="Raymond" uid="16478" visible="true" timestamp="2010-05-14T14:59:51Z"/>
+  <node id="734098364" lat="50.9644679" lon="6.9686651" version="1" changeset="4696907" user="Raymond" uid="16478" visible="true" timestamp="2010-05-14T14:59:51Z"/>
+  <node id="626052074" lat="50.9675213" lon="6.9689193" version="4" changeset="4731327" user="Raymond" uid="16478" visible="true" timestamp="2010-05-17T18:29:00Z"/>
+  <node id="750475806" lat="50.9227316" lon="6.9666976" version="1" changeset="4819516" user="Raymond" uid="16478" visible="true" timestamp="2010-05-27T06:50:22Z"/>
+  <node id="750478130" lat="50.9227394" lon="6.9667778" version="2" changeset="5427639" user="Raymond" uid="16478" visible="true" timestamp="2010-08-07T20:20:46Z"/>
+  <node id="752705702" lat="50.7120282" lon="7.126008" version="1" changeset="4830242" user="mike67" uid="49785" visible="true" timestamp="2010-05-28T12:04:53Z"/>
+  <node id="78586818" lat="50.9412673" lon="6.9513572" version="12" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:26Z"/>
+  <node id="943957991" lat="50.9714957" lon="6.9692263" version="1" changeset="6002469" user="Raymond" uid="16478" visible="true" timestamp="2010-10-10T14:10:16Z"/>
+  <node id="943958002" lat="50.9710841" lon="6.9692201" version="1" changeset="6002469" user="Raymond" uid="16478" visible="true" timestamp="2010-10-10T14:10:16Z"/>
+  <node id="943958097" lat="50.9706596" lon="6.9691975" version="2" changeset="6002469" user="Raymond" uid="16478" visible="true" timestamp="2010-10-10T14:44:03Z"/>
+  <node id="664573003" lat="50.9558577" lon="6.966865" version="3" changeset="11007258" user="berndw" uid="116044" visible="true" timestamp="2012-03-17T12:09:01Z"/>
+  <node id="1093872758" lat="50.9285849" lon="6.9427318" version="2" changeset="10662339" user="grenzdebil_bonn" uid="6390" visible="true" timestamp="2012-02-12T12:51:11Z"/>
+  <node id="1093872760" lat="50.9287692" lon="6.942961" version="1" changeset="6914016" user="berndw" uid="116044" visible="true" timestamp="2011-01-09T11:47:23Z"/>
+  <node id="1093872826" lat="50.9286205" lon="6.942745" version="2" changeset="8569884" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:51:28Z"/>
+  <node id="254372636" lat="50.9286672" lon="6.9428103" version="3" changeset="6914016" user="berndw" uid="116044" visible="true" timestamp="2011-01-09T11:47:54Z"/>
+  <node id="256572343" lat="50.929065" lon="6.9432332" version="11" changeset="10959570" user="berndw" uid="116044" visible="true" timestamp="2012-03-12T19:54:54Z">
+    <tag k="VRS:ref" v="11511"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="note" v="Linien VRS 16, VRS 18"/>
+    <tag k="operator" v="KVB"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Barbarossaplatz"/>
+    <tag k="ref:VRS" v="11511"/>
+    <tag k="website" v="http://www.kvb-koeln.de/german/hst/overview/23/"/>
+    <tag k="tram" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="300403943" lat="50.9302206" lon="6.9474473" version="6" changeset="10959570" user="berndw" uid="116044" visible="true" timestamp="2012-03-12T19:55:24Z"/>
+  <node id="254372621" lat="50.9269813" lon="6.9450798" version="2" changeset="6914016" user="berndw" uid="116044" visible="true" timestamp="2011-01-09T11:48:06Z"/>
+  <node id="254372633" lat="50.9286035" lon="6.9427162" version="2" changeset="6914016" user="berndw" uid="116044" visible="true" timestamp="2011-01-09T11:48:08Z"/>
+  <node id="256572344" lat="50.9296989" lon="6.9445939" version="3" changeset="6915809" user="berndw" uid="116044" visible="true" timestamp="2011-01-09T14:43:07Z"/>
+  <node id="1094282474" lat="50.9295781" lon="6.9443321" version="1" changeset="6915809" user="berndw" uid="116044" visible="true" timestamp="2011-01-09T14:43:06Z"/>
+  <node id="78586837" lat="50.9541391" lon="6.9644622" version="13" changeset="8904972" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:37:51Z">
+    <tag k="VRS:ref" v="11809"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="note" v="Linien VRS 5, VRS 16, VRS 18"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Reichenspergerplatz"/>
+    <tag k="ref:VRS" v="11809"/>
+    <tag k="tram" v="yes"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="370584190" lat="50.7057315" lon="7.132336" version="6" changeset="9352130" user="tumsi" uid="463879" visible="true" timestamp="2011-09-20T14:57:13Z">
+    <tag k="VRS:ref" v="62114"/>
+    <tag k="alt_name" v="Deutsche Telekom / Platz der Vereinten Nationen."/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Deutsche Telekom / Olof-Palme-Allee"/>
+    <tag k="VRS:name" v="Deutsche Telekom/Olof-Palme-Allee"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Gronau"/>
+  </node>
+  <node id="632938689" lat="50.9210942" lon="6.9595807" version="7" changeset="8740926" user="Raymond" uid="16478" visible="true" timestamp="2011-07-16T16:31:50Z">
+    <tag k="name" v="Chlodwigplatz"/>
+    <tag k="construction" v="tram_stop"/>
+    <tag k="railway" v="construction"/>
+  </node>
+  <node id="279231485" lat="50.9743812" lon="6.9692768" version="3" changeset="11019927" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T15:10:57Z"/>
+  <node id="571700118" lat="50.6802286" lon="7.1581242" version="2" changeset="7449207" user="konjak" uid="361984" visible="true" timestamp="2011-03-03T20:19:27Z"/>
+  <node id="1198542493" lat="50.7330902" lon="7.0959455" version="3" changeset="8905391" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:22:41Z">
+    <tag k="VRS:ref" v="61101"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Bonn Hauptbahnhof"/>
+    <tag k="ref:VRS" v="61101"/>
+    <tag k="tram" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="293702808" lat="50.7056729" lon="7.1322192" version="13" changeset="9352130" user="tumsi" uid="463879" visible="true" timestamp="2011-09-20T14:57:12Z">
+    <tag k="VRS:ref" v="62114"/>
+    <tag k="alt_name" v="Deutsche Telekom / Platz der Vereinten Nationen."/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Deutsche Telekom / Olof-Palme-Allee"/>
+    <tag k="VRS:name" v="Deutsche Telekom/Olof-Palme-Allee"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Gronau"/>
+  </node>
+  <node id="300403950" lat="50.9349612" lon="6.9493203" version="9" changeset="8904972" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:37:37Z">
+    <tag k="VRS:ref" v="11111"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="note" v="Linien VRS 3, VRS 4, VRS 16, VRS 18"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Neumarkt"/>
+    <tag k="ref:VRS" v="11111"/>
+    <tag k="tram" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="1228950597" lat="50.7111358" lon="7.1269313" version="4" changeset="8905391" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:22:43Z">
+    <tag k="VRS:ref" v="62115"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Deutsche Telekom / Ollenhauerstraße"/>
+    <tag k="VRS:name" v="Deutsche Telekom/Ollenhauerstraße"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Gronau"/>
+  </node>
+  <node id="269596945" lat="50.9636132" lon="6.9685034" version="7" changeset="9366746" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-09-22T17:49:00Z">
+    <tag k="VRS:ref" v="15120"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Kinderkrankenhaus"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Riehl"/>
+  </node>
+  <node id="59776017" lat="50.922458" lon="6.9656608" version="13" changeset="9366746" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-09-22T17:50:02Z">
+    <tag k="VRS:ref" v="11410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Ubierring"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="58694692" lat="50.9142927" lon="6.9719348" version="7" changeset="8904972" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:38:00Z">
+    <tag k="VRS:ref" v="12211"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Schönhauser Straße"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Bayenthal"/>
+  </node>
+  <node id="943958109" lat="50.9708416" lon="6.969094" version="4" changeset="9869031" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-11-19T03:56:25Z">
+    <tag k="VRS:ref" v="15121"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Amsterdamer Straße / Gürtel"/>
+    <tag k="ref" v="13, 16"/>
+    <tag k="VRS:name" v="Amsterdamer Straße/Gürtel"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Riehl"/>
+  </node>
+  <node id="276278176" lat="50.9773958" lon="6.9688305" version="6" changeset="8904853" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:27:30Z">
+    <tag k="VRS:ref" v="15414"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Nesselrodestraße"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Niehl"/>
+  </node>
+  <node id="1304527208" lat="50.8271632" lon="6.9727962" version="2" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:03:38Z"/>
+  <node id="295098721" lat="50.6917945" lon="7.1477316" version="6" changeset="8905374" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:18:06Z">
+    <tag k="VRS:ref" v="66708"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Wurzerstraße"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Plittersdorf"/>
+  </node>
+  <node id="294098844" lat="50.6808152" lon="7.1586271" version="5" changeset="8905374" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:17:52Z">
+    <tag k="VRS:ref" v="66206"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Stadthalle"/>
+    <tag k="VRS:name" v="Bad Godesberg Stadthalle"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Bad Godesberg"/>
+  </node>
+  <node id="31001719" lat="50.7297423" lon="7.1086195" version="5" changeset="9389626" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-09-25T13:58:13Z">
+    <tag k="VRS:ref" v="61209"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Juridicum"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="1334339161" lat="50.9537337" lon="6.9634067" version="1" changeset="8512020" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-22T08:34:29Z"/>
+  <node id="1334339165" lat="50.9538911" lon="6.9637782" version="1" changeset="8512020" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-22T08:34:29Z"/>
+  <node id="566964163" lat="50.7105667" lon="7.1274654" version="7" changeset="9421138" user="dschuwa" uid="55687" visible="true" timestamp="2011-09-28T17:06:21Z">
+    <tag k="railway" v="crossing"/>
+  </node>
+  <node id="1340936406" lat="50.950357" lon="6.9590334" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:42Z"/>
+  <node id="1340936455" lat="50.950498" lon="6.959106" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:43Z"/>
+  <node id="1340936473" lat="50.951199" lon="6.9594384" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:44Z"/>
+  <node id="1340936507" lat="50.9510316" lon="6.959392" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:44Z"/>
+  <node id="1340936512" lat="50.9502203" lon="6.9589329" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:45Z"/>
+  <node id="1340936518" lat="50.9512882" lon="6.9594608" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:45Z"/>
+  <node id="1340936536" lat="50.9517114" lon="6.9598952" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:45Z"/>
+  <node id="1340936537" lat="50.9511028" lon="6.9594184" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:45Z"/>
+  <node id="1340936541" lat="50.9520598" lon="6.9603589" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:45Z"/>
+  <node id="1340936558" lat="50.9522838" lon="6.9607708" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:45Z"/>
+  <node id="1340936580" lat="50.950114" lon="6.9588262" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:46Z"/>
+  <node id="1340936606" lat="50.9496427" lon="6.9585971" version="1" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:27:47Z"/>
+  <node id="256421944" lat="50.9519451" lon="6.9602012" version="8" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:28:03Z"/>
+  <node id="78586834" lat="50.951409" lon="6.9595611" version="6" changeset="8560025" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:28:15Z"/>
+  <node id="78586828" lat="50.9443565" lon="6.9586475" version="16" changeset="10477716" user="Aleks-Berlin" uid="85218" visible="true" timestamp="2012-01-23T18:35:53Z">
+    <tag k="note" v="Umbau beendet (eröffnet: 11.12.2011)"/>
+    <tag k="operator" v="KVB"/>
+    <tag k="name" v="Breslauer Platz / Hbf"/>
+    <tag k="website" v="http://www.kvb-koeln.de/german/hst/overview/9/"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1340947596" lat="50.9455829" lon="6.9574092" version="1" changeset="8560243" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:51:23Z"/>
+  <node id="1340947597" lat="50.9457671" lon="6.9573483" version="1" changeset="8560243" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:51:23Z"/>
+  <node id="1340947604" lat="50.9428977" lon="6.9598729" version="1" changeset="8560243" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:51:24Z"/>
+  <node id="1340936592" lat="50.9507624" lon="6.9592458" version="2" changeset="8560243" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:51:27Z">
+    <tag k="note" v="Linien VRS 5 Reichenspergerplatz, VRS 16 Niehl, VRS 18 Thielenbruch"/>
+    <tag k="name" v="Ebertplatz"/>
+    <tag k="ref:VRS" v="11810"/>
+    <tag k="tram" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="350243597" lat="50.9459503" lon="6.9573201" version="2" changeset="8560243" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:51:28Z"/>
+  <node id="78586829" lat="50.9461377" lon="6.9573373" version="6" changeset="8560243" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T09:51:28Z"/>
+  <node id="1340947600" lat="50.9446317" lon="6.9584027" version="2" changeset="10116112" user="Raymond" uid="16478" visible="true" timestamp="2011-12-14T14:19:36Z"/>
+  <node id="1340947601" lat="50.9436247" lon="6.9596963" version="2" changeset="10116112" user="Raymond" uid="16478" visible="true" timestamp="2011-12-14T14:19:36Z"/>
+  <node id="1340947602" lat="50.9434268" lon="6.9598398" version="2" changeset="10116112" user="Raymond" uid="16478" visible="true" timestamp="2011-12-14T14:19:36Z"/>
+  <node id="1341075003" lat="50.9420861" lon="6.9591574" version="1" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:00Z"/>
+  <node id="1341075024" lat="50.9419495" lon="6.958781" version="1" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:01Z"/>
+  <node id="1341075025" lat="50.9423853" lon="6.9595727" version="1" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:01Z"/>
+  <node id="1341075032" lat="50.9431162" lon="6.9599128" version="1" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:01Z"/>
+  <node id="1341075045" lat="50.9418949" lon="6.958578" version="1" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:01Z"/>
+  <node id="1341075058" lat="50.9421608" lon="6.9592919" version="1" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:02Z"/>
+  <node id="78586823" lat="50.9425241" lon="6.9596889" version="8" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:07Z"/>
+  <node id="88043603" lat="50.943027" lon="6.9599023" version="4" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:07Z"/>
+  <node id="78586822" lat="50.9422601" lon="6.9594386" version="8" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:11Z"/>
+  <node id="1340947599" lat="50.9418017" lon="6.9580631" version="2" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:11Z"/>
+  <node id="78586821" lat="50.9420189" lon="6.9590021" version="12" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:17Z"/>
+  <node id="1340947598" lat="50.942721" lon="6.9598096" version="2" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:17Z"/>
+  <node id="1340947603" lat="50.9418554" lon="6.9583774" version="2" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:18Z"/>
+  <node id="162415839" lat="50.9417811" lon="6.9578611" version="4" changeset="8561854" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T12:57:23Z"/>
+  <node id="1341148938" lat="50.9409123" lon="6.9505218" version="1" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:03Z"/>
+  <node id="1341148946" lat="50.9410667" lon="6.9507319" version="1" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:03Z"/>
+  <node id="1341148950" lat="50.939195" lon="6.9505903" version="1" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:03Z"/>
+  <node id="1341148965" lat="50.9409853" lon="6.9505977" version="1" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:03Z"/>
+  <node id="1341148968" lat="50.9386811" lon="6.9505045" version="1" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:04Z"/>
+  <node id="265891434" lat="50.9407948" lon="6.9504616" version="4" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:12Z"/>
+  <node id="265891437" lat="50.9411695" lon="6.9509611" version="5" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:21Z"/>
+  <node id="265891435" lat="50.9411171" lon="6.9508386" version="5" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:26Z"/>
+  <node id="265891428" lat="50.9406206" lon="6.9504152" version="5" changeset="8562523" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-27T14:06:26Z"/>
+  <node id="1341148995" lat="50.9394966" lon="6.9505873" version="4" changeset="10271648" user="Raymond" uid="16478" visible="true" timestamp="2012-01-02T15:17:26Z">
+    <tag k="VRS:ref" v="11209"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="note" v="Linien VRS 3, VRS 4, VRS 16, VRS 18"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="wheelchair:description" v="Aufzug zum Bahnsteig"/>
+    <tag k="name" v="Appellhofplatz"/>
+    <tag k="ref:VRS" v="11209"/>
+    <tag k="tram" v="yes"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+    <tag k="highway" v="elevator"/>
+  </node>
+  <node id="1342051652" lat="50.9367862" lon="6.9499675" version="1" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:04Z"/>
+  <node id="1342051653" lat="50.9354165" lon="6.9490578" version="1" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:04Z"/>
+  <node id="1342051659" lat="50.9364178" lon="6.9493459" version="1" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:04Z"/>
+  <node id="1342051667" lat="50.9370601" lon="6.9500631" version="1" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:04Z"/>
+  <node id="1342051671" lat="50.9356305" lon="6.9489912" version="1" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:05Z"/>
+  <node id="1342051677" lat="50.936248" lon="6.9491243" version="1" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:05Z"/>
+  <node id="1342051686" lat="50.9367026" lon="6.949911" version="1" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:05Z"/>
+  <node id="1342051697" lat="50.9343735" lon="6.9496045" version="1" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:05Z"/>
+  <node id="1342051702" lat="50.9368971" lon="6.9500109" version="1" changeset="8569404" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T08:41:06Z"/>
+  <node id="1342070206" lat="50.9305237" lon="6.9496706" version="1" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:22:54Z"/>
+  <node id="1342070209" lat="50.9305685" lon="6.9498098" version="1" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:22:55Z"/>
+  <node id="1342070211" lat="50.9322996" lon="6.9498649" version="1" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:22:55Z"/>
+  <node id="1342070213" lat="50.9312988" lon="6.9500309" version="1" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:22:55Z"/>
+  <node id="300403948" lat="50.9329884" lon="6.9497414" version="6" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:23:00Z"/>
+  <node id="300403946" lat="50.9310502" lon="6.9500632" version="7" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:23:00Z"/>
+  <node id="300403945" lat="50.9306198" lon="6.9498933" version="6" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:23:01Z"/>
+  <node id="1342051663" lat="50.9341471" lon="6.9496451" version="2" changeset="8569676" user="mapwitch" uid="7079" visible="true" timestamp="2011-06-28T09:23:01Z"/>
+  <node id="300403944" lat="50.9303435" lon="6.9486101" version="6" changeset="10959570" user="berndw" uid="116044" visible="true" timestamp="2012-03-12T19:55:25Z"/>
+  <node id="1343616936" lat="50.8486035" lon="6.9793679" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:23Z"/>
+  <node id="1343616942" lat="50.8490403" lon="6.9797594" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:23Z"/>
+  <node id="1349256457" lat="50.9264314" lon="6.9462808" version="1" changeset="8630109" user="mapwitch" uid="7079" visible="true" timestamp="2011-07-04T14:40:50Z">
+    <tag k="railway" v="crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="1349256464" lat="50.9268538" lon="6.9453556" version="1" changeset="8630109" user="mapwitch" uid="7079" visible="true" timestamp="2011-07-04T14:40:50Z"/>
+  <node id="1349256471" lat="50.9269529" lon="6.9451375" version="1" changeset="8630109" user="mapwitch" uid="7079" visible="true" timestamp="2011-07-04T14:40:50Z"/>
+  <node id="295035653" lat="50.9264184" lon="6.9463112" version="4" changeset="8630109" user="mapwitch" uid="7079" visible="true" timestamp="2011-07-04T14:40:58Z"/>
+  <node id="295035654" lat="50.9260233" lon="6.9472568" version="3" changeset="8630109" user="mapwitch" uid="7079" visible="true" timestamp="2011-07-04T14:40:58Z"/>
+  <node id="1358128533" lat="50.7642208" lon="7.0464724" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:11Z"/>
+  <node id="1358128550" lat="50.7647978" lon="7.0464058" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:11Z"/>
+  <node id="1358128553" lat="50.7652022" lon="7.0463341" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:11Z"/>
+  <node id="1358128558" lat="50.7656616" lon="7.0462099" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:11Z"/>
+  <node id="1358128559" lat="50.7662888" lon="7.0459731" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:11Z"/>
+  <node id="1358128567" lat="50.7669219" lon="7.0456531" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:11Z"/>
+  <node id="1358128572" lat="50.7676062" lon="7.0452019" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:11Z"/>
+  <node id="1358128578" lat="50.7681966" lon="7.0447153" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:12Z"/>
+  <node id="1358128585" lat="50.7686868" lon="7.0442542" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:12Z"/>
+  <node id="1358128603" lat="50.769152" lon="7.0437655" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:12Z"/>
+  <node id="1358128607" lat="50.7694497" lon="7.043449" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:12Z"/>
+  <node id="1358128630" lat="50.7711061" lon="7.0416877" version="1" changeset="8696569" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:02:13Z"/>
+  <node id="1358128511" lat="50.7699652" lon="7.042909" version="4" changeset="8905254" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:12:46Z">
+    <tag k="VRS:ref" v="53611"/>
+    <tag k="VRS:gemeinde" v="BORNHEIM"/>
+    <tag k="name" v="Hersel"/>
+    <tag k="ref" v="3"/>
+    <tag k="VRS:name" v="Hersel"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Hersel"/>
+  </node>
+  <node id="1358128519" lat="50.7556959" lon="7.0466076" version="2" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:37:35Z"/>
+  <node id="602246536" lat="50.7516778" lon="7.0466527" version="5" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:37:45Z"/>
+  <node id="1358196195" lat="50.7753246" lon="7.0381833" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:50Z"/>
+  <node id="1358196197" lat="50.7758605" lon="7.0377422" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:50Z"/>
+  <node id="1358196199" lat="50.7763682" lon="7.0372513" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:50Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1358196204" lat="50.7803883" lon="7.0332301" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:50Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1358196209" lat="50.7807029" lon="7.0329109" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:50Z"/>
+  <node id="1358196219" lat="50.781052" lon="7.0325398" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:51Z"/>
+  <node id="1358196223" lat="50.7825714" lon="7.0307191" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:51Z"/>
+  <node id="1358196230" lat="50.7830365" lon="7.0302044" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:51Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1358196233" lat="50.7837002" lon="7.0295446" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:51Z"/>
+  <node id="1358196237" lat="50.7847609" lon="7.0285948" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:51Z"/>
+  <node id="1358196244" lat="50.78693" lon="7.0268285" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:51Z"/>
+  <node id="1358196248" lat="50.7874693" lon="7.0263371" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:51Z"/>
+  <node id="1358196251" lat="50.7879889" lon="7.0258388" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:51Z"/>
+  <node id="1358196262" lat="50.7893671" lon="7.0244498" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:52Z"/>
+  <node id="1358196178" lat="50.7718891" lon="7.0408899" version="2" changeset="8701566" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T10:04:17Z"/>
+  <node id="1358196181" lat="50.7724486" lon="7.040395" version="2" changeset="8701566" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T10:04:17Z"/>
+  <node id="1358196221" lat="50.7816513" lon="7.0318198" version="2" changeset="8701566" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T10:04:17Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1358196274" lat="50.7911805" lon="7.0226608" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:52Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1358196285" lat="50.7950119" lon="7.0191179" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:52Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1358196287" lat="50.7975754" lon="7.0170385" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:52Z"/>
+  <node id="1358196289" lat="50.7982892" lon="7.0163694" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:53Z"/>
+  <node id="1358196290" lat="50.7990068" lon="7.0156473" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:53Z"/>
+  <node id="1358196291" lat="50.800514" lon="7.0140348" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:53Z"/>
+  <node id="1358196292" lat="50.8006273" lon="7.0139135" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:53Z"/>
+  <node id="1358196302" lat="50.8023018" lon="7.0121287" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:53Z"/>
+  <node id="1358196313" lat="50.8047922" lon="7.0094314" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:53Z"/>
+  <node id="1358196316" lat="50.8053034" lon="7.0087582" version="1" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:58:53Z"/>
+  <node id="619854147" lat="50.8042446" lon="7.0100653" version="2" changeset="8697149" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T19:59:29Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1358276433" lat="50.8099436" lon="7.0023617" version="1" changeset="8697956" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T21:15:06Z"/>
+  <node id="1358276462" lat="50.8137278" lon="6.9973782" version="1" changeset="8697956" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T21:15:06Z"/>
+  <node id="1358276467" lat="50.8146646" lon="6.9961826" version="1" changeset="8697956" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T21:15:06Z"/>
+  <node id="1358276470" lat="50.8150766" lon="6.9956185" version="1" changeset="8697956" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T21:15:06Z"/>
+  <node id="1358276472" lat="50.8153957" lon="6.9951252" version="1" changeset="8697956" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T21:15:06Z"/>
+  <node id="1358276476" lat="50.8156998" lon="6.9945799" version="1" changeset="8697956" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T21:15:06Z"/>
+  <node id="1358276478" lat="50.8162878" lon="6.9933941" version="1" changeset="8697956" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T21:15:07Z"/>
+  <node id="1358276482" lat="50.818025" lon="6.9897914" version="1" changeset="8697956" user="dachefte" uid="133419" visible="true" timestamp="2011-07-11T21:15:07Z"/>
+  <node id="594931927" lat="50.8117358" lon="6.9999237" version="4" changeset="9345226" user="redrace" uid="149451" visible="true" timestamp="2011-09-19T18:13:41Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1358276513" lat="50.8120708" lon="6.9994703" version="5" changeset="9650151" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-10-25T18:51:50Z">
+    <tag k="VRS:ref" v="85110"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="WESSELING"/>
+    <tag k="name" v="Wesseling Süd"/>
+    <tag k="ref" v="1"/>
+    <tag k="VRS:name" v="Wesseling Süd"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Mitte"/>
+  </node>
+  <node id="1358276489" lat="50.8188423" lon="6.9880764" version="2" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:03:40Z"/>
+  <node id="1358276501" lat="50.8189697" lon="6.9878117" version="2" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:03:40Z"/>
+  <node id="1358276509" lat="50.8220624" lon="6.981415" version="2" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:03:40Z"/>
+  <node id="58694612" lat="50.8121023" lon="6.9993528" version="10" changeset="8905007" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:57:22Z">
+    <tag k="VRS:ref" v="85110"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="VRS:gemeinde" v="WESSELING"/>
+    <tag k="name" v="Wesseling Süd"/>
+    <tag k="ref" v="KWSS"/>
+    <tag k="railway" v="station"/>
+    <tag k="VRS:ortsteil" v="Mitte"/>
+  </node>
+  <node id="1359151407" lat="50.7707409" lon="7.0420844" version="1" changeset="8701566" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T10:03:49Z"/>
+  <node id="1359151412" lat="50.7925026" lon="7.0213369" version="1" changeset="8701566" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T10:03:49Z"/>
+  <node id="1359151419" lat="50.7937116" lon="7.0201998" version="1" changeset="8701566" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T10:03:49Z"/>
+  <node id="1359151420" lat="50.7943192" lon="7.0196843" version="1" changeset="8701566" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T10:03:49Z"/>
+  <node id="1358128623" lat="50.7705027" lon="7.0423339" version="2" changeset="8701566" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T10:04:17Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1358196275" lat="50.7931315" lon="7.020734" version="2" changeset="8701566" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T10:04:17Z"/>
+  <node id="1358196318" lat="50.7819676" lon="7.031424" version="4" changeset="8905254" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:12:51Z">
+    <tag k="VRS:ref" v="53613"/>
+    <tag k="VRS:gemeinde" v="BORNHEIM"/>
+    <tag k="name" v="Uedorf"/>
+    <tag k="ref" v="2"/>
+    <tag k="VRS:name" v="Uedorf"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Hersel"/>
+  </node>
+  <node id="1359356475" lat="50.8179067" lon="6.9900367" version="1" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:02:42Z"/>
+  <node id="1359356619" lat="50.8204524" lon="6.9847715" version="1" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:02:48Z"/>
+  <node id="1359356704" lat="50.8235019" lon="6.9781578" version="1" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:02:52Z"/>
+  <node id="1359356718" lat="50.8252848" lon="6.9745677" version="1" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:02:52Z"/>
+  <node id="1359356722" lat="50.8262285" lon="6.9735025" version="1" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:02:52Z"/>
+  <node id="1304527225" lat="50.8267111" lon="6.9731301" version="3" changeset="8704595" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T16:06:35Z"/>
+  <node id="1359356726" lat="50.8278648" lon="6.9723106" version="2" changeset="8709625" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T07:17:42Z"/>
+  <node id="523897194" lat="50.8248862" lon="6.9751828" version="2" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:03:44Z"/>
+  <node id="523897216" lat="50.8236009" lon="6.9779363" version="2" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:03:45Z"/>
+  <node id="58694615" lat="50.8286149" lon="6.9718919" version="5" changeset="8703001" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T13:03:45Z"/>
+  <node id="1359544227" lat="50.834128" lon="6.9710267" version="1" changeset="8704470" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T15:52:37Z"/>
+  <node id="1359544248" lat="50.8355991" lon="6.9714672" version="1" changeset="8704470" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T15:52:37Z"/>
+  <node id="1359544255" lat="50.8362048" lon="6.9717283" version="1" changeset="8704470" user="dachefte" uid="133419" visible="true" timestamp="2011-07-12T15:52:37Z"/>
+  <node id="1359544035" lat="50.8300291" lon="6.9712899" version="2" changeset="8709625" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T07:17:42Z"/>
+  <node id="410374857" lat="50.8313388" lon="6.9709762" version="6" changeset="8709625" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T07:17:43Z"/>
+  <node id="1360245244" lat="50.8324393" lon="6.9708829" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:25Z"/>
+  <node id="1360245250" lat="50.8454691" lon="6.9773673" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:26Z"/>
+  <node id="1360245257" lat="50.8456261" lon="6.9774655" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:26Z"/>
+  <node id="1360245288" lat="50.8481728" lon="6.9790438" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:26Z"/>
+  <node id="1360245349" lat="50.8502296" lon="6.9811243" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:28Z"/>
+  <node id="1360245366" lat="50.8515894" lon="6.9835688" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:28Z"/>
+  <node id="1360245388" lat="50.8589292" lon="6.9998654" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:28Z"/>
+  <node id="1360245393" lat="50.8617267" lon="7.0017858" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:29Z"/>
+  <node id="1360245397" lat="50.8631416" lon="7.0027587" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:29Z"/>
+  <node id="1360245406" lat="50.86348" lon="7.0029992" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:29Z"/>
+  <node id="1360245535" lat="50.8870914" lon="6.9923806" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:32Z"/>
+  <node id="1360245543" lat="50.88862" lon="6.9914874" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:32Z"/>
+  <node id="1360245499" lat="50.8759592" lon="6.9991155" version="4" changeset="10646497" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-10T19:26:03Z">
+    <tag k="VRS:ref" v="12713"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Michaelshoven"/>
+    <tag k="VRS:name" v="Michaelshoven"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Rodenkirchen"/>
+  </node>
+  <node id="1360245524" lat="50.8827445" lon="6.995023" version="4" changeset="10647691" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-10T21:33:42Z">
+    <tag k="VRS:ref" v="12712"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Siegstraße"/>
+    <tag k="VRS:name" v="Siegstraße (Stadtbahn)"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Rodenkirchen"/>
+  </node>
+  <node id="1360245608" lat="50.8907285" lon="6.9902083" version="3" changeset="10663121" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-12T13:50:11Z">
+    <tag k="VRS:ref" v="12711"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Rodenkirchen Bf"/>
+    <tag k="VRS:name" v="Rodenkirchen Bf"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Rodenkirchen"/>
+  </node>
+  <node id="1360245433" lat="50.8640572" lon="7.0034158" version="2" changeset="8905210" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:59:41Z">
+    <tag k="VRS:ref" v="12811"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Sürth Bf"/>
+    <tag k="VRS:name" v="Sürth Bf"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Sürth"/>
+  </node>
+  <node id="1360245716" lat="50.9012618" lon="6.9839559" version="1" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:53:36Z"/>
+  <node id="1343616952" lat="50.8498372" lon="6.9806094" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:24Z"/>
+  <node id="1343616982" lat="50.8509553" lon="6.9822732" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:24Z"/>
+  <node id="1343616997" lat="50.8518641" lon="6.984274" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:24Z"/>
+  <node id="1344217403" lat="50.8583939" lon="6.9994043" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:25Z"/>
+  <node id="175218058" lat="50.850706" lon="6.9818628" version="7" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:25Z"/>
+  <node id="26612859" lat="50.8477201" lon="6.9787265" version="7" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:27Z"/>
+  <node id="26612861" lat="50.8512897" lon="6.9829088" version="7" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:27Z"/>
+  <node id="26612869" lat="50.86591" lon="7.0043235" version="8" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:27Z"/>
+  <node id="1360245703" lat="50.9002322" lon="6.9846595" version="2" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:25:51Z"/>
+  <node id="58694630" lat="50.8471128" lon="6.9783575" version="12" changeset="8905007" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:56:40Z">
+    <tag k="VRS:ref" v="12911"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Godorf"/>
+    <tag k="ref" v="KGOF"/>
+    <tag k="VRS:name" v="Godorf Bf"/>
+    <tag k="railway" v="station"/>
+    <tag k="VRS:ortsteil" v="Godorf"/>
+  </node>
+  <node id="1360245687" lat="50.8997449" lon="6.9849361" version="3" changeset="8905007" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:56:45Z">
+    <tag k="VRS:ref" v="12411"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Heinrich-Lübke-Ufer"/>
+    <tag k="VRS:name" v="Heinrich-Lübke-Ufer"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Marienburg"/>
+  </node>
+  <node id="1359544282" lat="50.8318744" lon="6.9709154" version="4" changeset="8905007" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:57:22Z">
+    <tag k="VRS:ref" v="85112"/>
+    <tag k="VRS:gemeinde" v="WESSELING"/>
+    <tag k="name" v="Wesseling Nord"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Mitte"/>
+  </node>
+  <node id="447922577" lat="50.8648851" lon="7.0039675" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:33Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="447922580" lat="50.8562506" lon="6.9957845" version="3" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:33Z"/>
+  <node id="447922595" lat="50.8646369" lon="7.0038342" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:33Z"/>
+  <node id="447922608" lat="50.8664866" lon="7.0043648" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:33Z"/>
+  <node id="447922611" lat="50.8674839" lon="7.0041588" version="2" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:33Z"/>
+  <node id="447930895" lat="50.8446289" lon="6.976861" version="3" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:33Z"/>
+  <node id="58694669" lat="50.9020025" lon="6.9831068" version="3" changeset="8711384" user="dachefte" uid="133419" visible="true" timestamp="2011-07-13T10:54:36Z"/>
+  <node id="450844591" lat="50.8579515" lon="6.9989378" version="4" changeset="10672574" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-13T12:15:59Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="58694657" lat="50.9010556" lon="6.984185" version="5" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:25:58Z"/>
+  <node id="58694645" lat="50.8759987" lon="6.9990857" version="14" changeset="10646497" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-10T19:26:04Z">
+    <tag k="VRS:ref" v="12713"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Michaelshoven"/>
+    <tag k="ref" v="KMH"/>
+    <tag k="railway" v="halt"/>
+    <tag k="VRS:ortsteil" v="Rodenkirchen"/>
+  </node>
+  <node id="414731386" lat="50.8914162" lon="6.989795" version="5" changeset="8716695" user="Raymond" uid="16478" visible="true" timestamp="2011-07-13T20:46:29Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1363623408" lat="50.9210822" lon="6.959164" version="1" changeset="8740926" user="Raymond" uid="16478" visible="true" timestamp="2011-07-16T16:31:43Z"/>
+  <node id="506371553" lat="50.9214923" lon="6.9619381" version="3" changeset="8740926" user="Raymond" uid="16478" visible="true" timestamp="2011-07-16T16:31:55Z">
+    <tag k="bicycle" v="yes"/>
+    <tag k="railway" v="crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="506704966" lat="50.9212041" lon="6.9601921" version="3" changeset="8740926" user="Raymond" uid="16478" visible="true" timestamp="2011-07-16T16:31:55Z">
+    <tag k="railway" v="crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="506704967" lat="50.92136" lon="6.9610812" version="3" changeset="8740926" user="Raymond" uid="16478" visible="true" timestamp="2011-07-16T16:31:55Z">
+    <tag k="railway" v="crossing"/>
+    <tag k="crossing" v="uncontrolled"/>
+  </node>
+  <node id="1359356675" lat="50.821927" lon="6.9816949" version="2" changeset="8747060" user="dachefte" uid="133419" visible="true" timestamp="2011-07-17T11:46:21Z"/>
+  <node id="58694648" lat="50.8908453" lon="6.990136" version="10" changeset="10663121" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-12T13:50:11Z">
+    <tag k="VRS:ref" v="12711"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Rodenkirchen"/>
+    <tag k="ref" v="KRK"/>
+    <tag k="VRS:name" v="Rodenkirchen Bf"/>
+    <tag k="railway" v="station"/>
+    <tag k="VRS:ortsteil" v="Rodenkirchen"/>
+  </node>
+  <node id="1382840198" lat="50.7400014" lon="7.0670357" version="1" changeset="8898995" user="dachefte" uid="133419" visible="true" timestamp="2011-08-02T09:41:12Z"/>
+  <node id="300403947" lat="50.9317732" lon="6.9499566" version="7" changeset="10767345" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2012-02-23T18:36:00Z">
+    <tag k="VRS:ref" v="11112"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="note" v="Linien VRS 3, VRS 4, VRS 16, VRS 18"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Poststraße"/>
+    <tag k="ref:VRS" v="11112"/>
+    <tag k="tram" v="yes"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="1360245266" lat="50.8471827" lon="6.9783993" version="2" changeset="8905007" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T20:56:41Z">
+    <tag k="VRS:ref" v="12911"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Godorf Bf"/>
+    <tag k="VRS:name" v="Godorf Bf"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Godorf"/>
+  </node>
+  <node id="1358196325" lat="50.7915812" lon="7.0222554" version="4" changeset="8905254" user="VRS Haltestellen-Import" uid="498918" visible="true" timestamp="2011-08-02T21:12:53Z">
+    <tag k="VRS:ref" v="53614"/>
+    <tag k="VRS:gemeinde" v="BORNHEIM"/>
+    <tag k="name" v="Widdig"/>
+    <tag k="ref" v="2"/>
+    <tag k="VRS:name" v="Widdig"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Hersel"/>
+  </node>
+  <node id="1384142316" lat="50.7354369" lon="7.0864358" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:50Z"/>
+  <node id="1384142358" lat="50.7362651" lon="7.0827323" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:51Z"/>
+  <node id="1384142367" lat="50.7364436" lon="7.0820127" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:51Z"/>
+  <node id="1384142398" lat="50.736658" lon="7.0809698" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:51Z"/>
+  <node id="1384142427" lat="50.7368638" lon="7.0800988" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:52Z"/>
+  <node id="1384142513" lat="50.7373825" lon="7.0782243" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:53Z"/>
+  <node id="1384142623" lat="50.7378846" lon="7.0769804" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:55Z"/>
+  <node id="1384142665" lat="50.7387659" lon="7.0751459" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:55Z"/>
+  <node id="1384142724" lat="50.7397782" lon="7.07199" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:57Z"/>
+  <node id="1384142729" lat="50.7399776" lon="7.0701897" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:57Z"/>
+  <node id="1384142747" lat="50.7403479" lon="7.0644982" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:57Z"/>
+  <node id="1384142870" lat="50.7428456" lon="7.053378" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:00:59Z"/>
+  <node id="1384142904" lat="50.7430324" lon="7.0525588" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:01:00Z"/>
+  <node id="1384142928" lat="50.7423173" lon="7.0557718" version="1" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:01:00Z">
+    <tag k="operator" v="SWB"/>
+    <tag k="name" v="Tannenbusch Süd"/>
+    <tag k="rail" v="tram_stop"/>
+  </node>
+  <node id="1384142795" lat="50.742291" lon="7.0558905" version="2" changeset="8922206" user="Roland Olbricht" uid="65282" visible="true" timestamp="2011-08-04T18:39:25Z">
+    <tag k="VRS:ref" v="64306"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Tannenbusch Süd"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Tannenbusch"/>
+  </node>
+  <node id="26612812" lat="50.7422856" lon="7.0557561" version="13" changeset="10560339" user="Roland Olbricht" uid="65282" visible="true" timestamp="2012-02-01T16:48:33Z">
+    <tag k="VRS:ref" v="64306"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Tannenbusch Süd"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Tannenbusch"/>
+  </node>
+  <node id="26612806" lat="50.7396339" lon="7.0727232" version="2" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:37Z"/>
+  <node id="26612807" lat="50.7399374" lon="7.0708431" version="2" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:37Z"/>
+  <node id="31605565" lat="50.7399961" lon="7.0692802" version="2" changeset="8908103" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T09:02:40Z"/>
+  <node id="1384253192" lat="50.7432608" lon="7.0517221" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:56Z"/>
+  <node id="1384253196" lat="50.7435236" lon="7.0509968" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:56Z"/>
+  <node id="1384253213" lat="50.7439139" lon="7.0501661" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:56Z"/>
+  <node id="1384253218" lat="50.7443062" lon="7.0494253" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:56Z"/>
+  <node id="1384253226" lat="50.744724" lon="7.0488116" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:56Z"/>
+  <node id="1384253237" lat="50.7451123" lon="7.0483374" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:57Z"/>
+  <node id="1384253250" lat="50.7454418" lon="7.0480058" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:57Z"/>
+  <node id="1384253273" lat="50.7458929" lon="7.04764" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:57Z"/>
+  <node id="1384253288" lat="50.7465303" lon="7.0472247" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:58Z"/>
+  <node id="1384253293" lat="50.7471657" lon="7.0469147" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:58Z"/>
+  <node id="1384253294" lat="50.7477403" lon="7.0467536" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:58Z"/>
+  <node id="1384253296" lat="50.7484373" lon="7.0466872" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:58Z"/>
+  <node id="1384253297" lat="50.7489229" lon="7.0466699" version="1" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:36:58Z"/>
+  <node id="1358128529" lat="50.76285" lon="7.0465139" version="2" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:37:35Z"/>
+  <node id="1358128530" lat="50.7636373" lon="7.0465151" version="2" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:37:36Z"/>
+  <node id="602488394" lat="50.7502305" lon="7.046665" version="3" changeset="8908806" user="dachefte" uid="133419" visible="true" timestamp="2011-08-03T10:37:46Z"/>
+  <node id="254380578" lat="50.9241245" lon="6.9517926" version="8" changeset="9456721" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-10-03T21:07:31Z">
+    <tag k="VRS:ref" v="11412"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Ulrepforte"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="58694640" lat="50.8642176" lon="7.0035298" version="15" changeset="10626052" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-08T16:20:27Z">
+    <tag k="VRS:ref" v="12811"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Sürth"/>
+    <tag k="ref" v="KSU"/>
+    <tag k="VRS:name" v="Sürth Bf"/>
+    <tag k="railway" v="station"/>
+    <tag k="VRS:ortsteil" v="Sürth"/>
+  </node>
+  <node id="1407155022" lat="50.9184779" lon="6.9694763" version="1" changeset="9085105" user="Raymond" uid="16478" visible="true" timestamp="2011-08-21T15:11:23Z"/>
+  <node id="287500729" lat="50.9227084" lon="6.9670952" version="7" changeset="9085105" user="Raymond" uid="16478" visible="true" timestamp="2011-08-21T15:12:15Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="31001721" lat="50.7257054" lon="7.1115549" version="11" changeset="9508573" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-10-09T10:35:52Z">
+    <tag k="VRS:ref" v="61208"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Bundesrechnungshof / Auswärtiges Amt"/>
+    <tag k="VRS:name" v="Bundesrechnungshof/Auswärtiges Amt"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="1384142214" lat="50.7365215" lon="7.0816809" version="2" changeset="9518514" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-10-10T17:12:42Z">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bonn-West"/>
+    <tag k="railway" v="tram_stop"/>
+  </node>
+  <node id="31001880" lat="50.7220301" lon="7.1143088" version="5" changeset="9518514" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-10-10T17:09:39Z">
+    <tag k="VRS:ref" v="61207"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Museum Koenig"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+  </node>
+  <node id="31615765" lat="50.7394627" lon="7.0733817" version="6" changeset="9518514" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-10-10T17:12:44Z">
+    <tag k="VRS:ref" v="61714"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Propsthof Nord"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Innenstadt"/>
+    <tag k="layer" v="1"/>
+  </node>
+  <node id="1627444442" lat="50.8833191" lon="6.9946768" version="1" changeset="10647691" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-10T21:33:35Z">
+    <tag k="railway" v="crossing"/>
+  </node>
+  <node id="473160721" lat="50.8228457" lon="6.9796464" version="6" changeset="9629390" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-10-23T17:03:29Z">
+    <tag k="VRS:ref" v="85111"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="VRS:gemeinde" v="WESSELING"/>
+    <tag k="name" v="Wesseling"/>
+    <tag k="ref" v="KWSL"/>
+    <tag k="railway" v="station"/>
+    <tag k="VRS:ortsteil" v="Mitte"/>
+  </node>
+  <node id="1358196319" lat="50.8034717" lon="7.0108705" version="6" changeset="9650151" user="wheelmap_visitor" uid="290680" visible="true" timestamp="2011-10-25T18:59:21Z">
+    <tag k="VRS:ref" v="85410"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="WESSELING"/>
+    <tag k="name" v="Urfeld"/>
+    <tag k="ref" v="2"/>
+    <tag k="VRS:name" v="Urfeld"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Urfeld"/>
+  </node>
+  <node id="848960720" lat="50.922729" lon="6.9670047" version="2" changeset="9665926" user="FvGordon" uid="161619" visible="true" timestamp="2011-10-27T06:48:09Z"/>
+  <node id="254348983" lat="50.923511" lon="6.9531589" version="5" changeset="10662339" user="grenzdebil_bonn" uid="6390" visible="true" timestamp="2012-02-12T12:51:14Z">
+    <tag k="railway" v="level_crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="254371671" lat="50.9277926" lon="6.9437401" version="4" changeset="10662339" user="grenzdebil_bonn" uid="6390" visible="true" timestamp="2012-02-12T12:51:14Z"/>
+  <node id="254372622" lat="50.9284747" lon="6.9428061" version="4" changeset="10662339" user="grenzdebil_bonn" uid="6390" visible="true" timestamp="2012-02-12T12:51:15Z"/>
+  <node id="1093872798" lat="50.9285393" lon="6.9427638" version="2" changeset="10662339" user="grenzdebil_bonn" uid="6390" visible="true" timestamp="2012-02-12T12:51:12Z"/>
+  <node id="1360245575" lat="50.8902855" lon="6.9904732" version="2" changeset="10663121" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-12T13:50:14Z"/>
+  <node id="1488790609" lat="50.7030116" lon="7.1352127" version="1" changeset="9715129" user="dschuwa" uid="55687" visible="true" timestamp="2011-11-01T18:20:41Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1488790617" lat="50.7033669" lon="7.1348481" version="1" changeset="9715129" user="dschuwa" uid="55687" visible="true" timestamp="2011-11-01T18:20:41Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1497610986" lat="50.7256874" lon="7.1115679" version="1" changeset="9791439" user="free_as_a_bird" uid="39966" visible="true" timestamp="2011-11-10T19:22:52Z"/>
+  <node id="1631240434" lat="50.8567403" lon="6.997011" version="1" changeset="10672574" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-13T12:14:47Z"/>
+  <node id="1631240458" lat="50.8570586" lon="6.9976321" version="1" changeset="10672574" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-13T12:14:48Z"/>
+  <node id="1343617023" lat="50.8568743" lon="6.9972835" version="4" changeset="10672574" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-13T12:15:54Z"/>
+  <node id="1344217381" lat="50.857254" lon="6.9979685" version="3" changeset="10672574" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-13T12:15:54Z"/>
+  <node id="26612862" lat="50.8566128" lon="6.996729" version="10" changeset="10672574" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-13T12:15:58Z"/>
+  <node id="1358128510" lat="50.7580628" lon="7.046557" version="4" changeset="9866973" user="mike67" uid="49785" visible="true" timestamp="2011-11-18T19:25:47Z">
+    <tag k="VRS:ref" v="64608"/>
+    <tag k="VRS:gemeinde" v="BONN"/>
+    <tag k="name" v="Buschdorf"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="VRS:ortsteil" v="Buschdorf"/>
+  </node>
+  <node id="1637906915" lat="50.8603383" lon="7.0008541" version="1" changeset="10722225" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T17:07:30Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1638243063" lat="50.8991331" lon="6.9852931" version="1" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:24:50Z"/>
+  <node id="1638243355" lat="50.9005808" lon="6.9844959" version="1" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:24:58Z"/>
+  <node id="1638243364" lat="50.9006756" lon="6.9844484" version="1" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:24:58Z"/>
+  <node id="1638243395" lat="50.9009067" lon="6.984306" version="1" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:25:00Z"/>
+  <node id="1638243413" lat="50.9009655" lon="6.984264" version="1" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:25:02Z"/>
+  <node id="447910430" lat="50.9003265" lon="6.9846147" version="8" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:25:55Z">
+    <tag k="railway" v="crossing"/>
+  </node>
+  <node id="447910444" lat="50.9004967" lon="6.984544" version="5" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:25:55Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="447910447" lat="50.9008301" lon="6.9843596" version="5" changeset="10724549" user="mapwitch" uid="7079" visible="true" timestamp="2012-02-18T21:25:56Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="256281024" lat="50.944855" lon="6.9581441" version="6" changeset="10116112" user="Raymond" uid="16478" visible="true" timestamp="2011-12-14T14:19:37Z"/>
+  <node id="88043604" lat="50.9453472" lon="6.9576208" version="3" changeset="10116112" user="Raymond" uid="16478" visible="true" timestamp="2011-12-14T14:19:37Z"/>
+  <node id="1093872865" lat="50.9300135" lon="6.9458746" version="2" changeset="10942862" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T13:36:32Z"/>
+  <node id="254350791" lat="50.9261352" lon="6.9470236" version="7" changeset="10942862" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T13:36:41Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="254371670" lat="50.92635" lon="6.9464798" version="4" changeset="10942862" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T13:36:41Z"/>
+  <node id="256572346" lat="50.9301431" lon="6.9466329" version="6" changeset="10942862" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T13:36:42Z"/>
+  <node id="254349036" lat="50.9211436" lon="6.9598551" version="10" changeset="10943426" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T14:26:44Z">
+    <tag k="railway" v="level_crossing"/>
+    <tag k="crossing" v="uncontrolled"/>
+  </node>
+  <node id="287500468" lat="50.9218683" lon="6.9638515" version="4" changeset="10943426" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T14:26:47Z">
+    <tag k="railway" v="crossing"/>
+    <tag k="source" v="photography"/>
+  </node>
+  <node id="506371551" lat="50.9217448" lon="6.9633546" version="3" changeset="10943426" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T14:26:51Z">
+    <tag k="bicycle" v="yes"/>
+    <tag k="railway" v="crossing"/>
+  </node>
+  <node id="59775989" lat="50.9217641" lon="6.9634969" version="6" changeset="10943426" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T14:26:52Z"/>
+  <node id="506371552" lat="50.9214406" lon="6.961615" version="5" changeset="10943738" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T14:51:36Z">
+    <tag k="bicycle" v="yes"/>
+    <tag k="railway" v="crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="507956681" lat="50.9218102" lon="6.9636318" version="4" changeset="10943738" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T14:51:36Z"/>
+  <node id="1670485684" lat="50.9048353" lon="6.9797835" version="1" changeset="10944318" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T15:37:55Z"/>
+  <node id="295098284" lat="50.9068128" lon="6.9778653" version="2" changeset="10944318" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T15:39:27Z">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="58694665" lat="50.9044401" lon="6.9801988" version="5" changeset="10944318" user="berndw" uid="116044" visible="true" timestamp="2012-03-11T15:39:32Z"/>
+  <node id="1093872812" lat="50.930163" lon="6.9469133" version="3" changeset="10959570" user="berndw" uid="116044" visible="true" timestamp="2012-03-12T19:55:10Z"/>
+  <node id="294299168" lat="50.9292784" lon="6.9436222" version="4" changeset="10959570" user="berndw" uid="116044" visible="true" timestamp="2012-03-12T19:55:23Z">
+    <tag k="railway" v="crossing"/>
+  </node>
+  <node id="300406856" lat="50.9304477" lon="6.9495016" version="6" changeset="10959570" user="berndw" uid="116044" visible="true" timestamp="2012-03-12T19:55:25Z"/>
+  <node id="1677325452" lat="50.9572046" lon="6.967166" version="1" changeset="11001784" user="berndw" uid="116044" visible="true" timestamp="2012-03-16T19:54:23Z"/>
+  <node id="1678177228" lat="50.9552869" lon="6.9667562" version="1" changeset="11007258" user="berndw" uid="116044" visible="true" timestamp="2012-03-17T12:08:28Z"/>
+  <node id="1678177229" lat="50.9565306" lon="6.9670255" version="1" changeset="11007258" user="berndw" uid="116044" visible="true" timestamp="2012-03-17T12:08:28Z"/>
+  <node id="1679917701" lat="50.9629077" lon="6.9683667" version="1" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:40:19Z"/>
+  <node id="1679917738" lat="50.9637856" lon="6.968536" version="1" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:40:21Z"/>
+  <node id="1679917806" lat="50.9660851" lon="6.9688136" version="1" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:40:24Z"/>
+  <node id="1679918017" lat="50.9687884" lon="6.9690375" version="1" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:40:30Z"/>
+  <node id="1679918229" lat="50.973102" lon="6.9692361" version="1" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:40:37Z"/>
+  <node id="276278175" lat="50.9756529" lon="6.9691811" version="2" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:43:22Z"/>
+  <node id="279171670" lat="50.9757276" lon="6.9691749" version="2" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:43:25Z"/>
+  <node id="737784947" lat="50.9672893" lon="6.968896" version="2" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:43:34Z"/>
+  <node id="943957967" lat="50.9714228" lon="6.9692079" version="2" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:43:35Z">
+    <tag k="railway" v="crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="943958069" lat="50.9704846" lon="6.9691537" version="2" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:43:36Z">
+    <tag k="railway" v="crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+  </node>
+  <node id="943958079" lat="50.9696425" lon="6.9690865" version="2" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:43:36Z"/>
+  <node id="943958117" lat="50.9704318" lon="6.9691494" version="2" changeset="11019623" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T14:43:36Z"/>
+  <node id="1679948758" lat="50.9766183" lon="6.968991" version="1" changeset="11019927" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T15:10:12Z"/>
+  <node id="1679948813" lat="50.9774807" lon="6.9688142" version="1" changeset="11019927" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T15:10:15Z"/>
+  <node id="273948471" lat="50.9851972" lon="6.9614051" version="7" changeset="11019927" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T15:10:50Z">
+    <tag k="VRS:ref" v="15413"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="VRS:gemeinde" v="KÖLN"/>
+    <tag k="name" v="Niehl Sebastianstraße"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="VRS:ortsteil" v="Niehl"/>
+  </node>
+  <node id="1680004123" lat="50.9828559" lon="6.9665528" version="1" changeset="11020208" user="berndw" uid="116044" visible="true" timestamp="2012-03-18T15:34:16Z"/>
+  <way id="4366608" visible="true" timestamp="2011-08-03T09:02:03Z" version="5" changeset="8908103" user="dachefte" uid="133419">
+    <nd ref="26612793"/>
+    <nd ref="1384142316"/>
+    <nd ref="1384142358"/>
+    <nd ref="1384142367"/>
+    <nd ref="1384142214"/>
+    <nd ref="27146894"/>
+    <nd ref="1384142398"/>
+    <nd ref="1384142427"/>
+    <nd ref="26612799"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="4823571" visible="true" timestamp="2012-02-14T17:55:59Z" version="19" changeset="10685375" user="adjuva" uid="92274">
+    <nd ref="752705702"/>
+    <nd ref="31052761"/>
+    <nd ref="50759286"/>
+    <nd ref="31052760"/>
+    <nd ref="31052759"/>
+    <nd ref="31001880"/>
+    <nd ref="31052758"/>
+    <nd ref="1497610986"/>
+    <nd ref="31001721"/>
+    <nd ref="31001719"/>
+    <nd ref="293703935"/>
+    <nd ref="31052756"/>
+    <nd ref="354678587"/>
+    <nd ref="31001581"/>
+    <nd ref="354678593"/>
+    <nd ref="31001580"/>
+    <nd ref="31001579"/>
+    <nd ref="354678603"/>
+    <nd ref="31001578"/>
+    <nd ref="31001577"/>
+    <nd ref="31001576"/>
+    <nd ref="31001575"/>
+    <nd ref="31001574"/>
+    <nd ref="31001573"/>
+    <nd ref="560738336"/>
+    <nd ref="560738335"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="note" v="underground track and station position guessed"/>
+    <tag k="layer" v="-2"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="155603714" visible="true" timestamp="2012-03-18T15:34:17Z" version="1" changeset="11020208" user="berndw" uid="116044">
+    <nd ref="276277732"/>
+    <nd ref="276277733"/>
+    <nd ref="276277734"/>
+    <nd ref="273948472"/>
+    <nd ref="273948471"/>
+    <tag k="tunnel" v="no"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-1"/>
+  </way>
+  <way id="155603715" visible="true" timestamp="2012-03-18T15:34:17Z" version="1" changeset="11020208" user="berndw" uid="116044">
+    <nd ref="276277732"/>
+    <nd ref="1680004123"/>
+    <nd ref="276278398"/>
+    <nd ref="277913361"/>
+    <nd ref="276278396"/>
+    <nd ref="276278394"/>
+    <nd ref="276278393"/>
+    <nd ref="276278178"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-1"/>
+  </way>
+  <way id="23680939" visible="true" timestamp="2011-06-27T09:28:11Z" version="6" changeset="8560025" user="mapwitch" uid="7079">
+    <nd ref="256421944"/>
+    <nd ref="1340936541"/>
+    <nd ref="1340936558"/>
+    <nd ref="78586836"/>
+    <nd ref="1334339161"/>
+    <nd ref="1334339165"/>
+    <nd ref="78586837"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="source" v="survey"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="25692980" visible="true" timestamp="2012-03-18T14:43:13Z" version="16" changeset="11019623" user="berndw" uid="116044">
+    <nd ref="269596942"/>
+    <nd ref="269596944"/>
+    <nd ref="1679917701"/>
+    <nd ref="269596945"/>
+    <nd ref="1679917738"/>
+    <nd ref="734098364"/>
+    <nd ref="734098361"/>
+    <nd ref="1679917806"/>
+    <nd ref="280127513"/>
+    <nd ref="737784947"/>
+    <nd ref="626052074"/>
+    <nd ref="276278173"/>
+    <nd ref="1679918017"/>
+    <nd ref="943958079"/>
+    <tag k="railway" v="tram"/>
+    <tag k="ref" v="16"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="27359077" visible="true" timestamp="2011-08-03T09:02:01Z" version="3" changeset="8908103" user="dachefte" uid="133419">
+    <nd ref="26612799"/>
+    <nd ref="31610480"/>
+    <nd ref="1384142513"/>
+    <nd ref="26612801"/>
+    <nd ref="1384142623"/>
+    <nd ref="31611631"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="27365822" visible="true" timestamp="2012-02-14T17:56:01Z" version="4" changeset="10685375" user="adjuva" uid="92274">
+    <nd ref="31001570"/>
+    <nd ref="31001569"/>
+    <nd ref="656135994"/>
+    <nd ref="26612793"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="tracks" v="2"/>
+    <tag k="layer" v="-1"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="27368646" visible="true" timestamp="2012-03-17T12:08:44Z" version="4" changeset="11007258" user="berndw" uid="116044">
+    <nd ref="300451657"/>
+    <nd ref="300451659"/>
+    <nd ref="300451660"/>
+    <nd ref="1678177228"/>
+    <nd ref="664573003"/>
+    <nd ref="1678177229"/>
+    <nd ref="1677325452"/>
+    <nd ref="269596942"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="railway" v="tram"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="28311609" visible="true" timestamp="2011-07-04T14:40:56Z" version="3" changeset="8630109" user="mapwitch" uid="7079">
+    <nd ref="295035653"/>
+    <nd ref="1349256457"/>
+    <nd ref="254380440"/>
+    <nd ref="1349256464"/>
+    <nd ref="1349256471"/>
+    <nd ref="254372621"/>
+    <nd ref="254371671"/>
+    <nd ref="254372622"/>
+    <nd ref="1093872798"/>
+    <nd ref="1093872758"/>
+    <nd ref="254372633"/>
+    <tag k="railway" v="tram"/>
+  </way>
+  <way id="4856477" visible="true" timestamp="2011-11-01T18:20:43Z" version="23" changeset="9715129" user="dschuwa" uid="55687">
+    <nd ref="292666216"/>
+    <nd ref="293702018"/>
+    <nd ref="390057020"/>
+    <nd ref="247069112"/>
+    <nd ref="390053073"/>
+    <nd ref="293702326"/>
+    <nd ref="293163179"/>
+    <nd ref="563288988"/>
+    <nd ref="293163167"/>
+    <nd ref="1488790609"/>
+    <nd ref="308851945"/>
+    <nd ref="308851944"/>
+    <nd ref="1488790617"/>
+    <nd ref="26723158"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="34969271" visible="true" timestamp="2011-07-12T16:06:34Z" version="6" changeset="8704595" user="dachefte" uid="133419">
+    <nd ref="410374857"/>
+    <nd ref="410374858"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="42127135" visible="true" timestamp="2010-08-07T20:20:54Z" version="5" changeset="5427639" user="Raymond" uid="16478">
+    <nd ref="58694709"/>
+    <nd ref="287500730"/>
+    <nd ref="58694712"/>
+    <nd ref="287500729"/>
+    <nd ref="848960720"/>
+    <nd ref="287500731"/>
+    <nd ref="750478130"/>
+    <nd ref="750475806"/>
+    <tag k="railway" v="tram"/>
+  </way>
+  <way id="4882557" visible="true" timestamp="2011-08-03T09:01:56Z" version="4" changeset="8908103" user="dachefte" uid="133419">
+    <nd ref="31611631"/>
+    <nd ref="1384142665"/>
+    <nd ref="31611948"/>
+    <nd ref="26612805"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="38083108" visible="true" timestamp="2011-07-13T10:54:05Z" version="3" changeset="8711384" user="dachefte" uid="133419">
+    <nd ref="447913576"/>
+    <nd ref="447913581"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="38082653" visible="true" timestamp="2011-07-13T10:54:05Z" version="3" changeset="8711384" user="dachefte" uid="133419">
+    <nd ref="447907462"/>
+    <nd ref="447907467"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="38082654" visible="true" timestamp="2012-02-18T21:25:23Z" version="6" changeset="10724549" user="mapwitch" uid="7079">
+    <nd ref="447907467"/>
+    <nd ref="1360245524"/>
+    <nd ref="26612876"/>
+    <nd ref="1627444442"/>
+    <nd ref="1360245535"/>
+    <nd ref="419700674"/>
+    <nd ref="1360245543"/>
+    <nd ref="1360245575"/>
+    <nd ref="1360245608"/>
+    <nd ref="58694648"/>
+    <nd ref="414731386"/>
+    <nd ref="1638243063"/>
+    <nd ref="1360245687"/>
+    <nd ref="58694653"/>
+    <nd ref="1360245703"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="38084285" visible="true" timestamp="2011-07-13T10:54:05Z" version="3" changeset="8711384" user="dachefte" uid="133419">
+    <nd ref="447930883"/>
+    <nd ref="447930895"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="42702006" visible="true" timestamp="2009-10-16T22:09:58Z" version="1" changeset="2869133" user="Quietscheentchen" uid="139818">
+    <nd ref="533983701"/>
+    <nd ref="533983700"/>
+    <tag k="railway" v="tram"/>
+  </way>
+  <way id="42702007" visible="true" timestamp="2009-10-16T22:09:58Z" version="1" changeset="2869133" user="Quietscheentchen" uid="139818">
+    <nd ref="533983700"/>
+    <nd ref="254350168"/>
+    <nd ref="254348983"/>
+    <nd ref="254348940"/>
+    <nd ref="254348939"/>
+    <nd ref="254380578"/>
+    <nd ref="254348938"/>
+    <nd ref="295035654"/>
+    <nd ref="254350791"/>
+    <nd ref="254371670"/>
+    <nd ref="295035653"/>
+    <tag k="railway" v="tram"/>
+  </way>
+  <way id="43269206" visible="true" timestamp="2009-11-18T12:36:05Z" version="6" changeset="3150041" user="EvanE" uid="184969">
+    <nd ref="543392187"/>
+    <nd ref="543392189"/>
+    <nd ref="543392184"/>
+    <nd ref="543392182"/>
+    <tag k="note" v="Oneway im Normalbetrieb"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="43269208" visible="true" timestamp="2009-11-18T12:36:05Z" version="6" changeset="3150041" user="EvanE" uid="184969">
+    <nd ref="543392176"/>
+    <nd ref="543392178"/>
+    <nd ref="543392166"/>
+    <tag k="note" v="Oneway im Normalbetrieb"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="43269202" visible="true" timestamp="2009-12-10T19:38:09Z" version="5" changeset="3344365" user="mike67" uid="49785">
+    <nd ref="543392187"/>
+    <nd ref="585258518"/>
+    <nd ref="26723161"/>
+    <nd ref="30991717"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="voltage" v="750"/>
+    <tag k="electrified" v="contact_line"/>
+  </way>
+  <way id="44131976" visible="true" timestamp="2011-07-01T09:49:17Z" version="5" changeset="8597741" user="mapwitch" uid="7079">
+    <nd ref="31001571"/>
+    <nd ref="560738332"/>
+    <nd ref="1198542493"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="layer" v="-2"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="43269207" visible="true" timestamp="2010-02-09T14:52:30Z" version="7" changeset="3832881" user="Netzwolf" uid="32786">
+    <nd ref="543392182"/>
+    <nd ref="293702808"/>
+    <nd ref="543392176"/>
+    <tag k="note" v="Oneway im Normalbetrieb"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="27365823" visible="true" timestamp="2009-11-11T13:53:09Z" version="5" changeset="3090213" user="dachefte" uid="133419">
+    <nd ref="26723158"/>
+    <nd ref="293163166"/>
+    <nd ref="543392166"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="45092020" visible="true" timestamp="2009-11-27T01:47:05Z" version="2" changeset="3224632" user="EvanE" uid="184969">
+    <nd ref="294098844"/>
+    <nd ref="571700118"/>
+    <tag k="service" v="yard"/>
+    <tag k="description" v="Wendeanlage"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="note" v="Wendeanlage"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="voltage" v="750"/>
+    <tag k="source" v="survey"/>
+    <tag k="layer" v="-3"/>
+  </way>
+  <way id="47267099" visible="true" timestamp="2011-08-12T08:45:52Z" version="5" changeset="8993189" user="dachefte" uid="133419">
+    <nd ref="31610966"/>
+    <nd ref="26612810"/>
+    <nd ref="1384142747"/>
+    <nd ref="1384142795"/>
+    <nd ref="1384142928"/>
+    <nd ref="1384142870"/>
+    <nd ref="1384142904"/>
+    <nd ref="1384253192"/>
+    <nd ref="1384253196"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="119300336" visible="true" timestamp="2011-06-27T09:27:52Z" version="1" changeset="8560025" user="mapwitch" uid="7079">
+    <nd ref="1340936507"/>
+    <nd ref="1340936537"/>
+    <nd ref="1340936473"/>
+    <nd ref="1340936518"/>
+    <tag k="railway" v="tram"/>
+    <tag k="ref" v="5, 16, 18"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="119300345" visible="true" timestamp="2011-06-27T09:27:53Z" version="1" changeset="8560025" user="mapwitch" uid="7079">
+    <nd ref="78586831"/>
+    <nd ref="1340936580"/>
+    <nd ref="1340936512"/>
+    <nd ref="1340936406"/>
+    <nd ref="1340936455"/>
+    <tag k="railway" v="tram"/>
+    <tag k="ref" v="5, 16, 18"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="119300348" visible="true" timestamp="2011-06-27T09:27:54Z" version="1" changeset="8560025" user="mapwitch" uid="7079">
+    <nd ref="1340936518"/>
+    <nd ref="78586834"/>
+    <nd ref="1340936536"/>
+    <nd ref="256421944"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="27368647" visible="true" timestamp="2011-06-27T09:28:03Z" version="4" changeset="8560025" user="mapwitch" uid="7079">
+    <nd ref="78586837"/>
+    <nd ref="78586838"/>
+    <nd ref="300451657"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="119300322" visible="true" timestamp="2011-06-27T09:51:28Z" version="2" changeset="8560243" user="mapwitch" uid="7079">
+    <nd ref="1340936606"/>
+    <nd ref="78586831"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="33476760" visible="true" timestamp="2011-06-27T12:57:22Z" version="6" changeset="8561854" user="mapwitch" uid="7079">
+    <nd ref="381061393"/>
+    <nd ref="1341075078"/>
+    <nd ref="162415839"/>
+    <nd ref="1340947599"/>
+    <nd ref="1340947603"/>
+    <nd ref="1341075045"/>
+    <nd ref="1341075024"/>
+    <nd ref="78586821"/>
+    <nd ref="1341075003"/>
+    <nd ref="1341075058"/>
+    <nd ref="78586822"/>
+    <nd ref="1341075025"/>
+    <nd ref="78586823"/>
+    <nd ref="1340947598"/>
+    <nd ref="1340947604"/>
+    <nd ref="88043603"/>
+    <nd ref="1341075032"/>
+    <nd ref="632938754"/>
+    <nd ref="1340947602"/>
+    <nd ref="1340947601"/>
+    <nd ref="78586828"/>
+    <nd ref="1340947600"/>
+    <nd ref="256281024"/>
+    <nd ref="88043604"/>
+    <nd ref="1340947596"/>
+    <nd ref="1340947597"/>
+    <nd ref="350243597"/>
+    <nd ref="78586829"/>
+    <nd ref="78586830"/>
+    <nd ref="1340936606"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="15985508" visible="true" timestamp="2011-06-27T14:06:14Z" version="25" changeset="8562523" user="mapwitch" uid="7079">
+    <nd ref="78586818"/>
+    <nd ref="381061391"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="119300318" visible="true" timestamp="2011-06-27T14:06:14Z" version="2" changeset="8562523" user="mapwitch" uid="7079">
+    <nd ref="1340936455"/>
+    <nd ref="1340936592"/>
+    <nd ref="1340936507"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="27579468" visible="true" timestamp="2011-06-27T14:06:25Z" version="2" changeset="8562523" user="mapwitch" uid="7079">
+    <nd ref="265891428"/>
+    <nd ref="265891434"/>
+    <nd ref="1341148938"/>
+    <nd ref="1341148965"/>
+    <nd ref="1341148946"/>
+    <nd ref="265891435"/>
+    <nd ref="265891437"/>
+    <nd ref="78586818"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="33476762" visible="true" timestamp="2011-06-27T14:06:29Z" version="3" changeset="8562523" user="mapwitch" uid="7079">
+    <nd ref="381061391"/>
+    <nd ref="381061393"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="24461765" visible="true" timestamp="2011-09-27T03:55:36Z" version="11" changeset="9407310" user="ninjamask" uid="527721">
+    <nd ref="256572346"/>
+    <nd ref="1093872812"/>
+    <nd ref="300403943"/>
+    <nd ref="300403944"/>
+    <nd ref="300406856"/>
+    <nd ref="1342070206"/>
+    <nd ref="1342070209"/>
+    <nd ref="300403945"/>
+    <nd ref="300406855"/>
+    <nd ref="300406854"/>
+    <nd ref="300403946"/>
+    <tag k="railway" v="tram"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="27579753" visible="true" timestamp="2011-06-28T09:23:01Z" version="5" changeset="8569676" user="mapwitch" uid="7079">
+    <nd ref="300403946"/>
+    <nd ref="1342070213"/>
+    <nd ref="300403947"/>
+    <nd ref="1342070211"/>
+    <nd ref="300403948"/>
+    <nd ref="1342051663"/>
+    <nd ref="1342051697"/>
+    <nd ref="300403949"/>
+    <nd ref="300403950"/>
+    <nd ref="1342051653"/>
+    <nd ref="1342051671"/>
+    <nd ref="300406853"/>
+    <nd ref="300406852"/>
+    <nd ref="300406849"/>
+    <nd ref="1342051677"/>
+    <nd ref="300406848"/>
+    <nd ref="1342051659"/>
+    <nd ref="300406850"/>
+    <nd ref="300403951"/>
+    <nd ref="300406851"/>
+    <nd ref="1342051686"/>
+    <nd ref="1342051652"/>
+    <nd ref="1342051702"/>
+    <nd ref="1342051667"/>
+    <nd ref="1341148968"/>
+    <nd ref="300403952"/>
+    <nd ref="1341148950"/>
+    <nd ref="1341148995"/>
+    <nd ref="265891428"/>
+    <tag k="railway" v="tram"/>
+    <tag k="layer" v="-2"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="119845875" visible="true" timestamp="2011-06-30T20:43:26Z" version="1" changeset="8594237" user="mapwitch" uid="7079">
+    <nd ref="560738321"/>
+    <nd ref="31001570"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="layer" v="-2"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="119895819" visible="true" timestamp="2011-07-01T09:48:59Z" version="1" changeset="8597741" user="mapwitch" uid="7079">
+    <nd ref="1198542493"/>
+    <nd ref="560738327"/>
+    <nd ref="560738321"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="layer" v="-2"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="80959939" visible="true" timestamp="2010-10-10T14:10:21Z" version="1" changeset="6002469" user="Raymond" uid="16478">
+    <nd ref="943958079"/>
+    <nd ref="943958117"/>
+    <nd ref="943958069"/>
+    <nd ref="943958097"/>
+    <nd ref="943958002"/>
+    <nd ref="943957967"/>
+    <nd ref="943957991"/>
+    <nd ref="280127403"/>
+    <tag k="railway" v="tram"/>
+    <tag k="ref" v="16"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="26685882" visible="true" timestamp="2011-03-30T20:44:22Z" version="14" changeset="7720530" user="EvanE" uid="184969">
+    <nd ref="292666216"/>
+    <nd ref="292668320"/>
+    <nd ref="292667906"/>
+    <nd ref="295098721"/>
+    <nd ref="537524204"/>
+    <nd ref="292668322"/>
+    <nd ref="295098522"/>
+    <nd ref="293696555"/>
+    <nd ref="292667908"/>
+    <nd ref="292667909"/>
+    <nd ref="294098814"/>
+    <nd ref="539214384"/>
+    <nd ref="294098842"/>
+    <nd ref="294098816"/>
+    <nd ref="347584444"/>
+    <nd ref="294098843"/>
+    <nd ref="347584445"/>
+    <nd ref="294098818"/>
+    <nd ref="571700117"/>
+    <nd ref="294098844"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="layer" v="-3"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="6134679" visible="true" timestamp="2011-04-02T07:56:05Z" version="12" changeset="7741647" user="mike67" uid="49785">
+    <nd ref="30991717"/>
+    <nd ref="293163182"/>
+    <nd ref="566964163"/>
+    <nd ref="1228950597"/>
+    <nd ref="752705702"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="note" v="underground track and station position guessed"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="80959937" visible="true" timestamp="2012-03-18T15:10:48Z" version="4" changeset="11019927" user="berndw" uid="116044">
+    <nd ref="280127403"/>
+    <nd ref="1679918229"/>
+    <nd ref="279231485"/>
+    <nd ref="276278175"/>
+    <nd ref="279171670"/>
+    <nd ref="1679948758"/>
+    <nd ref="276278176"/>
+    <nd ref="1679948813"/>
+    <nd ref="276278177"/>
+    <nd ref="276278178"/>
+    <tag k="railway" v="tram"/>
+    <tag k="ref" v="16"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="121270216" visible="true" timestamp="2011-07-12T10:04:03Z" version="2" changeset="8701566" user="dachefte" uid="133419">
+    <nd ref="1358128529"/>
+    <nd ref="1358128530"/>
+    <nd ref="1358128533"/>
+    <nd ref="1358128550"/>
+    <nd ref="1358128553"/>
+    <nd ref="1358128558"/>
+    <nd ref="1358128559"/>
+    <nd ref="1358128567"/>
+    <nd ref="1358128572"/>
+    <nd ref="1358128578"/>
+    <nd ref="1358128585"/>
+    <nd ref="1358128603"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121282378" visible="true" timestamp="2011-07-12T10:04:04Z" version="2" changeset="8701566" user="dachefte" uid="133419">
+    <nd ref="1358196291"/>
+    <nd ref="1358196292"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="23574559" visible="true" timestamp="2011-08-12T08:45:44Z" version="20" changeset="8993189" user="dachefte" uid="133419">
+    <nd ref="602488394"/>
+    <nd ref="29766820"/>
+    <nd ref="602246536"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="cutting" v="yes"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121282381" visible="true" timestamp="2011-08-12T08:45:47Z" version="3" changeset="8993189" user="dachefte" uid="133419">
+    <nd ref="602246536"/>
+    <nd ref="659587941"/>
+    <nd ref="1358128519"/>
+    <nd ref="1358128510"/>
+    <nd ref="1358128529"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="cutting" v="yes"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge;Yahoo"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121270220" visible="true" timestamp="2011-07-12T10:04:06Z" version="3" changeset="8701566" user="dachefte" uid="133419">
+    <nd ref="1358128603"/>
+    <nd ref="1358128607"/>
+    <nd ref="1358128511"/>
+    <nd ref="1358128623"/>
+    <nd ref="1359151407"/>
+    <nd ref="1358128630"/>
+    <nd ref="1358196178"/>
+    <nd ref="1358196181"/>
+    <nd ref="1358196195"/>
+    <nd ref="1358196197"/>
+    <nd ref="1358196199"/>
+    <nd ref="1358196204"/>
+    <nd ref="1358196209"/>
+    <nd ref="1358196219"/>
+    <nd ref="1358196221"/>
+    <nd ref="1358196318"/>
+    <nd ref="1358196223"/>
+    <nd ref="1358196230"/>
+    <nd ref="1358196233"/>
+    <nd ref="1358196237"/>
+    <nd ref="1358196244"/>
+    <nd ref="1358196248"/>
+    <nd ref="1358196251"/>
+    <nd ref="1358196262"/>
+    <nd ref="1358196274"/>
+    <nd ref="1358196325"/>
+    <nd ref="1359151412"/>
+    <nd ref="1358196275"/>
+    <nd ref="1359151419"/>
+    <nd ref="1359151420"/>
+    <nd ref="1358196285"/>
+    <nd ref="1358196287"/>
+    <nd ref="1358196289"/>
+    <nd ref="1358196290"/>
+    <nd ref="1358196291"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121292003" visible="true" timestamp="2011-07-12T10:04:08Z" version="2" changeset="8701566" user="dachefte" uid="133419">
+    <nd ref="1358276433"/>
+    <nd ref="594931927"/>
+    <nd ref="1358276513"/>
+    <nd ref="1358276462"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121282390" visible="true" timestamp="2011-07-12T10:04:09Z" version="3" changeset="8701566" user="dachefte" uid="133419">
+    <nd ref="1358196292"/>
+    <nd ref="1358196302"/>
+    <nd ref="1358196319"/>
+    <nd ref="619854147"/>
+    <nd ref="1358196313"/>
+    <nd ref="1358196316"/>
+    <nd ref="1358276433"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121402228" visible="true" timestamp="2011-07-12T13:03:00Z" version="1" changeset="8703001" user="dachefte" uid="133419">
+    <nd ref="1358276509"/>
+    <nd ref="473160721"/>
+    <nd ref="26612852"/>
+    <nd ref="1359356704"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121402266" visible="true" timestamp="2011-07-12T13:03:05Z" version="1" changeset="8703001" user="dachefte" uid="133419">
+    <nd ref="1359356704"/>
+    <nd ref="523897216"/>
+    <nd ref="26612854"/>
+    <nd ref="523897194"/>
+    <nd ref="1359356718"/>
+    <nd ref="58694619"/>
+    <nd ref="1359356722"/>
+    <nd ref="1304527225"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="115467242" visible="true" timestamp="2011-07-12T13:03:13Z" version="2" changeset="8703001" user="dachefte" uid="133419">
+    <nd ref="1304527225"/>
+    <nd ref="1304527208"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121292000" visible="true" timestamp="2011-07-12T13:03:14Z" version="2" changeset="8703001" user="dachefte" uid="133419">
+    <nd ref="1358276489"/>
+    <nd ref="1358276501"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121292001" visible="true" timestamp="2011-07-12T13:03:16Z" version="2" changeset="8703001" user="dachefte" uid="133419">
+    <nd ref="1358276501"/>
+    <nd ref="1359356619"/>
+    <nd ref="1359356675"/>
+    <nd ref="1358276509"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121292004" visible="true" timestamp="2011-07-12T13:03:19Z" version="3" changeset="8703001" user="dachefte" uid="133419">
+    <nd ref="1358276462"/>
+    <nd ref="1358276467"/>
+    <nd ref="1358276470"/>
+    <nd ref="1358276472"/>
+    <nd ref="1358276476"/>
+    <nd ref="1358276478"/>
+    <nd ref="1359356475"/>
+    <nd ref="1358276482"/>
+    <nd ref="1358276489"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="115467245" visible="true" timestamp="2011-07-12T15:52:58Z" version="3" changeset="8704470" user="dachefte" uid="133419">
+    <nd ref="1304527208"/>
+    <nd ref="1359356726"/>
+    <nd ref="58694615"/>
+    <nd ref="410371916"/>
+    <nd ref="1359544035"/>
+    <nd ref="410372368"/>
+    <nd ref="410371917"/>
+    <nd ref="410374857"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="34970849" visible="true" timestamp="2011-08-12T08:45:50Z" version="11" changeset="8993189" user="dachefte" uid="133419">
+    <nd ref="410375488"/>
+    <nd ref="26612857"/>
+    <nd ref="1359544227"/>
+    <nd ref="58694627"/>
+    <nd ref="1359544248"/>
+    <nd ref="1359544255"/>
+    <nd ref="58694622"/>
+    <nd ref="447930883"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="embankment" v="yes"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="34969272" visible="true" timestamp="2011-08-12T08:45:46Z" version="7" changeset="8993189" user="dachefte" uid="133419">
+    <nd ref="410374858"/>
+    <nd ref="26612856"/>
+    <nd ref="1359544282"/>
+    <nd ref="410375487"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+    <tag k="emergency" v="yes"/>
+  </way>
+  <way id="121526944" visible="true" timestamp="2011-07-13T10:53:37Z" version="1" changeset="8711384" user="dachefte" uid="133419">
+    <nd ref="1360245397"/>
+    <nd ref="1360245406"/>
+    <nd ref="1360245433"/>
+    <nd ref="58694640"/>
+    <nd ref="447922595"/>
+    <nd ref="447922577"/>
+    <nd ref="26612867"/>
+    <nd ref="26612869"/>
+    <nd ref="447922608"/>
+    <nd ref="58694643"/>
+    <nd ref="447922611"/>
+    <nd ref="26612871"/>
+    <nd ref="447913576"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="121526968" visible="true" timestamp="2012-02-18T21:25:21Z" version="3" changeset="10724549" user="mapwitch" uid="7079">
+    <nd ref="1360245703"/>
+    <nd ref="447910430"/>
+    <nd ref="447910444"/>
+    <nd ref="1638243355"/>
+    <nd ref="1638243364"/>
+    <nd ref="447910447"/>
+    <nd ref="1638243395"/>
+    <nd ref="1638243413"/>
+    <nd ref="58694657"/>
+    <nd ref="1360245716"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="KVB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="34970850" visible="true" timestamp="2011-07-13T10:54:09Z" version="6" changeset="8711384" user="dachefte" uid="133419">
+    <nd ref="410375487"/>
+    <nd ref="1360245244"/>
+    <nd ref="410375488"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="38083103" visible="true" timestamp="2011-07-13T10:54:09Z" version="3" changeset="8711384" user="dachefte" uid="133419">
+    <nd ref="447913581"/>
+    <nd ref="1360245499"/>
+    <nd ref="58694645"/>
+    <nd ref="447907462"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="38084286" visible="true" timestamp="2012-02-18T17:07:42Z" version="11" changeset="10722225" user="mapwitch" uid="7079">
+    <nd ref="447930895"/>
+    <nd ref="1360245250"/>
+    <nd ref="1360245257"/>
+    <nd ref="58694630"/>
+    <nd ref="1360245266"/>
+    <nd ref="26612859"/>
+    <nd ref="1360245288"/>
+    <nd ref="1343616936"/>
+    <nd ref="1343616942"/>
+    <nd ref="27561557"/>
+    <nd ref="1343616952"/>
+    <nd ref="1360245349"/>
+    <nd ref="175218058"/>
+    <nd ref="1343616982"/>
+    <nd ref="26612861"/>
+    <nd ref="1360245366"/>
+    <nd ref="1343616997"/>
+    <nd ref="447922580"/>
+    <nd ref="26612862"/>
+    <nd ref="1631240434"/>
+    <nd ref="1343617023"/>
+    <nd ref="1631240458"/>
+    <nd ref="1344217381"/>
+    <nd ref="26612864"/>
+    <nd ref="450844591"/>
+    <nd ref="1344217403"/>
+    <nd ref="1360245388"/>
+    <nd ref="1637906915"/>
+    <nd ref="1360245393"/>
+    <nd ref="1360245397"/>
+    <tag k="usage" v="main"/>
+    <tag k="pzb" v="yes"/>
+    <tag k="maxspeed" v="120"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="HGK"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="28311937" visible="true" timestamp="2011-07-16T16:31:46Z" version="14" changeset="8740926" user="Raymond" uid="16478">
+    <nd ref="750475806"/>
+    <nd ref="523813333"/>
+    <nd ref="260557190"/>
+    <nd ref="59776017"/>
+    <nd ref="260558401"/>
+    <nd ref="287500468"/>
+    <nd ref="507956681"/>
+    <nd ref="59775989"/>
+    <nd ref="506371551"/>
+    <nd ref="506371553"/>
+    <nd ref="506371552"/>
+    <nd ref="506704967"/>
+    <nd ref="505829740"/>
+    <nd ref="506704966"/>
+    <nd ref="254349036"/>
+    <nd ref="632938689"/>
+    <nd ref="254350166"/>
+    <nd ref="1363623408"/>
+    <nd ref="533914791"/>
+    <nd ref="533983701"/>
+    <tag k="railway" v="tram"/>
+  </way>
+  <way id="124123308" visible="true" timestamp="2012-03-11T15:39:06Z" version="3" changeset="10944318" user="berndw" uid="116044">
+    <nd ref="1360245716"/>
+    <nd ref="58694669"/>
+    <nd ref="58694665"/>
+    <nd ref="1670485684"/>
+    <nd ref="58694661"/>
+    <nd ref="295098284"/>
+    <nd ref="58694673"/>
+    <nd ref="58694679"/>
+    <nd ref="58694681"/>
+    <nd ref="58694685"/>
+    <nd ref="58694686"/>
+    <nd ref="58694689"/>
+    <nd ref="58694692"/>
+    <nd ref="58694696"/>
+    <nd ref="429437783"/>
+    <nd ref="523813329"/>
+    <nd ref="632962622"/>
+    <nd ref="58694699"/>
+    <nd ref="429437784"/>
+    <nd ref="429437785"/>
+    <nd ref="58694702"/>
+    <nd ref="429437790"/>
+    <nd ref="1407155022"/>
+    <nd ref="292956437"/>
+    <nd ref="429437782"/>
+    <nd ref="429437781"/>
+    <nd ref="58694706"/>
+    <nd ref="58694709"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="KVB"/>
+    <tag k="tracks" v="1"/>
+  </way>
+  <way id="124327928" visible="true" timestamp="2011-08-03T09:01:04Z" version="1" changeset="8908103" user="dachefte" uid="133419">
+    <nd ref="31611534"/>
+    <nd ref="26612807"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="124327943" visible="true" timestamp="2011-08-03T09:01:06Z" version="1" changeset="8908103" user="dachefte" uid="133419">
+    <nd ref="26612807"/>
+    <nd ref="1384142729"/>
+    <nd ref="31605565"/>
+    <nd ref="26612809"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="4882556" visible="true" timestamp="2011-08-03T09:02:00Z" version="3" changeset="8908103" user="dachefte" uid="133419">
+    <nd ref="26612805"/>
+    <nd ref="31615765"/>
+    <nd ref="26612806"/>
+    <nd ref="1384142724"/>
+    <nd ref="31611534"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="BingSat;knowledge"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="4882539" visible="true" timestamp="2011-08-03T09:02:12Z" version="5" changeset="8908103" user="dachefte" uid="133419">
+    <nd ref="26612809"/>
+    <nd ref="1382840198"/>
+    <nd ref="31610966"/>
+    <tag k="name" v="Rheinuferbahn"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="47292624" visible="true" timestamp="2011-08-03T10:37:11Z" version="3" changeset="8908806" user="dachefte" uid="133419">
+    <nd ref="602488393"/>
+    <nd ref="602488394"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="layer" v="-1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="voltage" v="750"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="125735015" visible="true" timestamp="2011-08-12T08:45:33Z" version="1" changeset="8993189" user="dachefte" uid="133419">
+    <nd ref="1384253196"/>
+    <nd ref="1384253213"/>
+    <nd ref="1384253218"/>
+    <nd ref="1384253226"/>
+    <nd ref="1384253237"/>
+    <nd ref="1384253250"/>
+    <nd ref="1384253273"/>
+    <nd ref="1384253288"/>
+    <nd ref="1384253293"/>
+    <nd ref="1384253294"/>
+    <nd ref="1384253296"/>
+    <nd ref="1384253297"/>
+    <nd ref="602488393"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="cutting" v="yes"/>
+    <tag k="operator" v="SWB"/>
+    <tag k="tracks" v="1"/>
+    <tag k="frequency" v="0"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+  </way>
+  <way id="150377544" visible="true" timestamp="2012-02-14T17:54:56Z" version="1" changeset="10685375" user="adjuva" uid="92274">
+    <nd ref="560738335"/>
+    <nd ref="31001571"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="note" v="underground track and station position guessed"/>
+    <tag k="layer" v="-2"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="voltage" v="750"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="154502564" visible="true" timestamp="2012-03-11T13:34:49Z" version="1" changeset="10942862" user="berndw" uid="116044">
+    <nd ref="256572346"/>
+    <nd ref="1093872865"/>
+    <nd ref="256572347"/>
+    <nd ref="256572344"/>
+    <nd ref="1094282474"/>
+    <nd ref="256572345"/>
+    <nd ref="295035351"/>
+    <nd ref="294299168"/>
+    <nd ref="256572342"/>
+    <nd ref="256572343"/>
+    <nd ref="1093872760"/>
+    <nd ref="254372636"/>
+    <nd ref="1093872826"/>
+    <nd ref="254372633"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="railway" v="tram"/>
+  </way>
+  <relation id="34488" visible="true" timestamp="2012-03-18T15:34:22Z" version="84" changeset="11020208" user="berndw" uid="116044">
+    <member type="way" ref="45092020" role="backward"/>
+    <member type="way" ref="26685882" role="backward"/>
+    <member type="way" ref="4856477" role="forward"/>
+    <member type="way" ref="27365823" role="forward"/>
+    <member type="way" ref="43269208" role="backward"/>
+    <member type="way" ref="43269207" role="backward"/>
+    <member type="way" ref="43269206" role="backward"/>
+    <member type="way" ref="43269202" role="forward"/>
+    <member type="way" ref="6134679" role="forward"/>
+    <member type="way" ref="4823571" role="forward"/>
+    <member type="way" ref="150377544" role="forward"/>
+    <member type="way" ref="44131976" role="forward"/>
+    <member type="way" ref="119895819" role="forward"/>
+    <member type="way" ref="119845875" role="forward"/>
+    <member type="way" ref="27365822" role="forward"/>
+    <member type="way" ref="4366608" role="forward"/>
+    <member type="way" ref="27359077" role="forward"/>
+    <member type="way" ref="4882557" role="forward"/>
+    <member type="way" ref="4882556" role="forward"/>
+    <member type="way" ref="124327928" role="forward"/>
+    <member type="way" ref="124327943" role="forward"/>
+    <member type="way" ref="4882539" role="forward"/>
+    <member type="way" ref="47267099" role="forward"/>
+    <member type="way" ref="125735015" role="forward"/>
+    <member type="way" ref="47292624" role="forward"/>
+    <member type="way" ref="23574559" role="forward"/>
+    <member type="way" ref="121282381" role="forward"/>
+    <member type="way" ref="121270216" role="forward"/>
+    <member type="way" ref="121270220" role="forward"/>
+    <member type="way" ref="121282378" role="forward"/>
+    <member type="way" ref="121282390" role="forward"/>
+    <member type="way" ref="121292003" role="forward"/>
+    <member type="way" ref="121292004" role="forward"/>
+    <member type="way" ref="121292000" role="forward"/>
+    <member type="way" ref="121292001" role="forward"/>
+    <member type="way" ref="121402228" role="forward"/>
+    <member type="way" ref="121402266" role="forward"/>
+    <member type="way" ref="115467242" role="forward"/>
+    <member type="way" ref="115467245" role="forward"/>
+    <member type="way" ref="34969271" role="forward"/>
+    <member type="way" ref="34969272" role="forward"/>
+    <member type="way" ref="34970850" role="forward"/>
+    <member type="way" ref="34970849" role="forward"/>
+    <member type="way" ref="38084285" role="forward"/>
+    <member type="way" ref="38084286" role="forward"/>
+    <member type="way" ref="121526944" role="forward"/>
+    <member type="way" ref="38083108" role="forward"/>
+    <member type="way" ref="38083103" role="forward"/>
+    <member type="way" ref="38082653" role="forward"/>
+    <member type="way" ref="38082654" role="forward"/>
+    <member type="way" ref="121526968" role="forward"/>
+    <member type="way" ref="124123308" role="forward"/>
+    <member type="way" ref="42127135" role="forward"/>
+    <member type="way" ref="28311937" role="forward"/>
+    <member type="way" ref="42702006" role="forward"/>
+    <member type="way" ref="42702007" role="forward"/>
+    <member type="way" ref="28311609" role="forward"/>
+    <member type="way" ref="154502564" role="backward"/>
+    <member type="way" ref="24461765" role="forward"/>
+    <member type="way" ref="27579753" role="forward"/>
+    <member type="way" ref="27579468" role="forward"/>
+    <member type="way" ref="15985508" role="forward"/>
+    <member type="way" ref="33476762" role="forward"/>
+    <member type="way" ref="33476760" role="forward"/>
+    <member type="way" ref="119300322" role="forward"/>
+    <member type="way" ref="119300345" role="forward"/>
+    <member type="way" ref="119300318" role="forward"/>
+    <member type="way" ref="119300336" role="forward"/>
+    <member type="way" ref="119300348" role="forward"/>
+    <member type="way" ref="23680939" role="forward"/>
+    <member type="way" ref="27368647" role="forward"/>
+    <member type="way" ref="27368646" role="forward"/>
+    <member type="way" ref="25692980" role="forward"/>
+    <member type="way" ref="80959939" role="forward"/>
+    <member type="way" ref="80959937" role="forward"/>
+    <member type="way" ref="155603715" role="backward"/>
+    <member type="way" ref="155603714" role="forward"/>
+    <member type="node" ref="294098844" role=""/>
+    <member type="node" ref="292667909" role=""/>
+    <member type="node" ref="295098522" role=""/>
+    <member type="node" ref="295098721" role=""/>
+    <member type="node" ref="293702018" role=""/>
+    <member type="node" ref="293163167" role=""/>
+    <member type="node" ref="370584190" role=""/>
+    <member type="node" ref="1228950597" role=""/>
+    <member type="node" ref="31052760" role=""/>
+    <member type="node" ref="31001880" role=""/>
+    <member type="node" ref="31001721" role=""/>
+    <member type="node" ref="31001719" role=""/>
+    <member type="node" ref="31001576" role=""/>
+    <member type="node" ref="1198542493" role=""/>
+    <member type="node" ref="27146894" role=""/>
+    <member type="node" ref="31615765" role=""/>
+    <member type="node" ref="26612812" role=""/>
+    <member type="node" ref="29766820" role=""/>
+    <member type="node" ref="1358128510" role=""/>
+    <member type="node" ref="1358128511" role=""/>
+    <member type="node" ref="1358196318" role=""/>
+    <member type="node" ref="1358196325" role=""/>
+    <member type="node" ref="1358196319" role=""/>
+    <member type="node" ref="58694612" role=""/>
+    <member type="node" ref="26612852" role=""/>
+    <member type="node" ref="1359544282" role=""/>
+    <member type="node" ref="58694630" role=""/>
+    <member type="node" ref="58694640" role=""/>
+    <member type="node" ref="1360245499" role=""/>
+    <member type="node" ref="1360245524" role=""/>
+    <member type="node" ref="58694648" role=""/>
+    <member type="node" ref="1360245687" role=""/>
+    <member type="node" ref="58694661" role=""/>
+    <member type="node" ref="58694692" role=""/>
+    <member type="node" ref="59776017" role=""/>
+    <member type="node" ref="505829740" role=""/>
+    <member type="node" ref="254380578" role=""/>
+    <member type="node" ref="254380440" role=""/>
+    <member type="node" ref="256572343" role=""/>
+    <member type="node" ref="300403947" role=""/>
+    <member type="node" ref="300403950" role=""/>
+    <member type="node" ref="1341148995" role=""/>
+    <member type="node" ref="1341075078" role=""/>
+    <member type="node" ref="78586828" role=""/>
+    <member type="node" ref="1340936592" role=""/>
+    <member type="node" ref="78586837" role=""/>
+    <member type="node" ref="269596945" role=""/>
+    <member type="node" ref="943958109" role="13, 16"/>
+    <member type="node" ref="276278176" role=""/>
+    <member type="node" ref="273948471" role=""/>
+    <tag k="color" v="#54ad4b"/>
+    <tag k="from" v="Bonn, Bad Godesberg Stadthalle"/>
+    <tag k="name" v="Linie 16 Köln-Niel"/>
+    <tag k="network" v="VRS"/>
+    <tag k="operator" v="KVB;SWB"/>
+    <tag k="ref" v="16"/>
+    <tag k="route" v="subway"/>
+    <tag k="to" v="Köln-Niehl"/>
+    <tag k="type" v="route"/>
+    <tag k="via" v="Wesseling"/>
+  </relation>
+</osm>
