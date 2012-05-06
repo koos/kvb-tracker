@@ -25,16 +25,19 @@ Pusher.log = (message) ->
   window.console.log(message)  if (window.console && window.console.log)
   # Flash fallback logging
   WEB_SOCKET_DEBUG = true
-
+infoWindow = $("#info")
+infoWindow.append("Hello")
 console.log("pusher")
 pusher  = new Pusher 'fd7d5bc8f36413a2163d'
 channel = pusher.subscribe 'default'
 channel.bind 'vehicle_update', (data)->
-  newPosition = new L.LatLng(data.position[0], data.position[1])
-  
-  if window.markers[data.id] != undefined
-    window.markers[data.id].setLatLng(newPosition)
-  else
-    window.markers[data.id] = new L.Marker(newPosition, {icon: window.icon})
-    window.map.addLayer(window.markers[data.id])
-    window.markers[data.id].bindPopup("<strong>Linie "+ data.line+" Id: "+data.id+"<br />"+data.destination+"</strong>")
+  if data.position[0] != null && data.position[1] != null
+    newPosition = new L.LatLng(data.position[0], data.position[1])
+    if window.markers[data.id] != undefined
+      console.log("------------------ Moving Marker #{data.id} #{newPosition} ------------------ ")
+      window.markers[data.id].setLatLng(newPosition)
+    else
+      console.log("------------------ New Marker #{data.id} ------------------ ")
+      window.markers[data.id] = new L.Marker(newPosition, {icon: window.icon})
+      window.map.addLayer(window.markers[data.id])
+      window.markers[data.id].bindPopup("<strong>Linie "+ data.line+" Id: "+data.id+"<br />"+data.destination+"</strong>")
